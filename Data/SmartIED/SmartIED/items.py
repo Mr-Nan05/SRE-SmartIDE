@@ -8,7 +8,7 @@
 import scrapy
 
 
-class SmartideItem(scrapy.Item):
+class PullRequests(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    PR_titles = scrapy.Field()

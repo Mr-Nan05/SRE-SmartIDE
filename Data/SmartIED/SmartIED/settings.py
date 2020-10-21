@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for SmartIDE project
+# Scrapy settings for SmartIED project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,14 +9,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'SmartIDE'
+BOT_NAME = 'SmartIED'
 
-SPIDER_MODULES = ['SmartIDE.spiders']
-NEWSPIDER_MODULE = 'SmartIDE.spiders'
+SPIDER_MODULES = ['SmartIED.spiders']
+NEWSPIDER_MODULE = 'SmartIED.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'SmartIDE (+http://www.yourdomain.com)'
+#USER_AGENT = 'SmartIED (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -47,13 +47,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'SmartIDE.middlewares.SmartideSpiderMiddleware': 543,
+#    'SmartIED.middlewares.SmartiedSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'SmartIDE.middlewares.SmartideDownloaderMiddleware': 543,
+#    'SmartIED.middlewares.SmartiedDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -65,7 +65,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'SmartIDE.pipelines.SmartidePipeline': 300,
+#    'SmartIED.pipelines.SmartiedPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
