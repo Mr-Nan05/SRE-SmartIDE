@@ -1,0 +1,237 @@
+Added extensibility points for searchView/context
+make openFile() respect enablePreview setting
+Update to openChange() to fix #108856
+Update OneSnippet#move method to fix #96545.
+Rebase current branch onto another branch
+markdown smart select
+resources#relativePath does not honour path casing strategy
+Fix indentation logic for Emmet:Remove Tags
+#fix: 107491
+fix #108673 Put FileSystemProvider error message into settings.json create-failure notification
+Enable tsec as language service plugin
+#fix: 108459
+Add case styles converter to user snippets
+Typo hightlight -> highlight
+Fix overlay area for minimap slider
+User custom hover at iconLabel level
+Add updateTextFromFindWidgetOrSelection method to SearchView
+Implement selection paste for integrated terminal on Linux
+Environemt -> Environment
+Ignore LineDecoration order when comparing
+Try new Rust grammar
+Cache file tree in memory and batch transactions.
+Configuration variables: unsafe file path usage
+Update CodeActionOnSaveParticipant
+Expose output from executable debug adapter
+Add new property to IConfigurationPropertySchema
+option to have --no-edit when amending commits
+Create empty commit with changed files #107753
+Honour opt-out for crash reporting
+Allows for filtering by file extension in Change Language Mode
+Replace panel: allow to validate using keyboard any time, not only when replace string is active
+Using global-scope isWorkspaceShellAllowed with folderUri
+Quiet Light theme diff syntax highlighting
+106907-When-stashing-use-commit-message
+Adding a quick tip in debug hover mode
+scmViewPane: do not render whitespace in commit message input field
+Switches the 'Fix all' quick fix provider to use resolveCodeAction
+Search In Open Editors
+fix #106487 Contribute an "activating" placeholder message and button
+Adds a vscode.hideView command
+support to delete remote tag from command palette.
+Fixes [Terminal: Clear] command
+Implement vscode-file:// support and drop node.js for window loading
+Make editorGroupToViewColumn return 0 instead of throwing error
+Initial sketches for copy/paste action provider API
+Add atomic tabs option
+Pr/34997
+feat: detect default stash message microsoft#106907
+hover info should not be broken within word
+Fix composition logic for Firefox
+fix logic for NPS/Language survey prompt
+remove only disabled breakpoints
+Allow tabs to wrap to multi-line
+Use the git submodule's name in source control view
+:up: vscode-sqlite3@5.x
+Provide option to default to github provider for git.api.getRemoteSources
+Add editor setting to prevent auto closing of specified pairs
+Smart-commit staging bug
+Add dirSep variable for launch.json
+Tweak Welcome page's Start section
+add compliance pipeline
+Added usage for workspace.openTunnel()
+Git status is not displayed in explorer sidebar with soft link
+Exploring a pkg installer for macOS
+Update imports for all files
+Update files in vscode/src/vs/code to improve the copyright headers as mentioned in #96747.
+Multiple theme ID scopes for customisation
+feat(extensions): added an option to disable related dependencies when disabling an extension with enabled dependencies
+Centered layout with fixed center view width
+Make Clicking in Scrollbars Move By Page
+Zoom: remove webFrame dependency from renderer
+Avoid rendering minimap if the frame already shows all the code
+Make debug hover align editor font size
+notebook file watch re #104209.
+Git: Add cherryPick command
+Show active repository name in status bar
+Update copyright headers
+fix: use open to invoke the app from cli
+Add git.pushTags setting
+make NotebookContentProvider parameter consistent
+Fixes feedback widget appears wrong when invoked from command palette
+Remove find error messages for webviews
+Bump elliptic from 6.4.0 to 6.5.3
+fix(quickinput): make `inputBox.enable` work
+feat(quickinput): support codicons in prompt
+Fix find-widget staying revealed but disabled if it is opened and closed fast
+fix #66000 VSCODE_ALWAYS_SHOW_SCROLLBARS env var
+Add activation events for providing/resolving tasks (TaskProvider extension API)
+Fixes top and bottom border cut off on status bar item border
+Add setting to modify copy separator
+Support `args` for `workbench.action.selectTheme`
+Allow calling extension language features even for big files
+#99129 Theme Color for git staged files.
+fix #98945 Handle `.git/info/exclude`
+#97684 Add alt-click & actions to fold/unfold surronding regions
+Fixes #99971 - Show activation events in Feature Contributions
+Feature/link fixes and additions
+#98964: Fixed the restart frame icon
+Fix fetchOnPull behavior for Pull and Sync
+added registry keys for libraries in explorer right click context menu
+Remove padding left from first child label in a compacted folder label
+explorer: support for dnd remote resources
+editor use contenteditable instead of textarea
+Add next/prev conflicts
+Add force checkout and smart checkout
+Add rename by git context menu
+Fix launch configuration input variable resolution.
+fix(jsDoc): remove one space indentation on multiple enters after closing jsDoc
+Multiple selections with find and replace
+Add better support for checkout type config
+New Sort Order Lexicographic Options setting for Explorer
+Don't fail when resolving config variables without a `folderUri`.
+hide git ignored files in explorer
+Add #96264: Checkout git with detach flag
+Fix #90897: check whole line for decreaseIndentPattern
+New Option: editor.deleteAllLeadingBlankCharacters
+Explorer: Allow ./ prefix when creating/renaming file
+fixed #92146
+Avoid loading and twisty codicons set at the same time
+Fixes Extension Feature Contributions doesn't render markdownDescription
+Add option to disable dirty editor widget
+Use LabelService for SCM repo name (fixes #40548)
+Show keybinding source in GUI
+Normalize whitespace within snippets
+Show repository name in status bar
+Use new debug colour contributions in built-in themes
+Open a file using system default application
+Offer to show git command output on failure
+A full editor can be used as git commit message editor
+Fix the handling of tabs in quickinfo Markdown code blocks
+Issue 92279: New feature for adding multiple diff decorations
+Show cursor in diff review
+#13680 git support private key password
+After adding remote, run fetch
+Added a setting to open cloned repository automatically.
+Git: ask to save unsaved files before stashing
+Prompt for settings sync authentication only when the window is active
+Fix #93946. Remove focus when scrolling.
+Added a warning before dropping a stash.
+#7989 Git: Allow empty commits when merging
+Untitled Notebook
+Provide workbench.panel.location "top" option (microsoft#50984)
+paramtere hints: do not use aria alerts
+WIP fix #92858 - dynamic size extension header
+fix #26338
+Focus the quick pick back to the starting position
+Resolve and replace commands for next command
+Move custom editor tests back into VS Code
+Feature/remove example from copied files
+Support using theme icons in webview iconPath
+closes #91699
+sort NPM scripts by path
+Allow git amend message only
+Support for multiple values in git.path in settings.json
+Allow enter shortcut#85850
+Fix #90891
+Better diff for deleted file in merge conflict
+Avoid duplicated element id in explorer tree
+Fixes #90125 - Add a task instancePolicy to task runOptions
+Fix #90429 Hide Replace when Find is focused
+Enable ok button for extensions using quickpick
+WIP: Support fingerprint verification confirmation
+Fix interactive playground's suggest widget styled everything as links
+Fix #86384 Added Stash Staged option for GIT SCM
+Preserve GNOME titlebar layout settings
+Fixes source control remember tree collapsed state
+git.pruneOnFetch setting implemented
+Register Save All keyboard shortcut on Linux, too
+add ignoreSubmodules option
+Show a rename entry in the refactor/lightbulb menus
+Vulnerable Version Fix
+Add web-standalone build
+Fix failure of revealing webview with viewColumn which does not exist
+Do not create a folder in start menu per Microsoft UI fundamentals.
+Backend part of working sets
+Correct explorer opening & add ctrl double click support
+feat: Add editor selection evaluation for debugger
+#85320 Allow seeding find box with multi-line text
+Windows explorer icons
+#86176: Consider indenting with comments (that contain apostrophes)
+#27498 restore extension editor webview scroll positions
+Invertible marker search
+Change @ts-nocheck to @ts-check in the interactive walkthrough
+Support for tokens expanding to search include patterns
+Add an Option to Evaluate the Selected Text While Debuggee
+Fix auto-indent on paste, second line and after
+Fix #20768: Don't seed search without selection
+Enables dependant variable substitution
+Better top
+Find in selection: Don't expand a multiline find scope to line start/end (#80008)
+Add Repl Filter (#4338) WIP
+Selectable Fast Scroll Key
+Open existing keybindings in new editor
+Option for find widget to have max width
+Add folding from end of region
+Option for auto closing comments
+Fix #74902: controls problems panel badge to show all problems or filtered problems
+Support object types in `when` conditions
+this may fix #51458
+Add multiselection support when installing extensions from VSIX files
+Fixed wrong tooltip on extension page uninstall button after installing extension.
+fix #23627 (proper default value in extension settings contribution)
+Fixes #63813
+Join Lines Redesigned
+Fix strict null check.  Fixes: #71096
+Allow to hide editor title section entirely (tabs, breadcrumbs)
+Removed max-width restrictions from the .monaco-editor-hover #69835
+Use schemastore catalog to add schema associations for json files
+Extension recommendations based on workspace remotes
+Fixes #68694 moving multiple consequitive lines
+Fixes #44237: Add column number in tasks
+Add simple expandable instanceLimit option in tasks. Fixes #32264
+Add follow on Twitter badge
+Update README
+Quote args for bash, fixes #61056
+PR-7842: search for extensions via command line #7842
+Make extension detail styles more responsive
+Fix issues wrapping links/emails using Emmet command
+Don't skip children with script source attached
+fix issue #41558 - keybindings editor header no longer selects first item 
+Display '-patched' by version in about dialog and issue reporter when impure
+Store translation paths relative to the extensions directory
+Add support for predefined variable ${fileDirbasename}
+Correctly inherit/don't inherit the shell environment
+add custom folding strategy
+Fix some missing indentationRules and indentation on ctrl+shift+enter
+Promise with no error log error.stack
+Simple implementation of drag and drop installation for VSIX extensions
+Fixed #47151 - Added Multi-cursor support to Alt+Up/Alt+Down
+Fix #38321 -- Provide navigation through git merge conflicts with codelens
+#40288 find replace in resolved config variable
+Remember last abbreviations used in wrap with abbreviation.
+Allow an indent increase pattern to span multiple lines
+expand variables sections
+ Add the Chinese document translated from English
+added "file nesting" support, based on file naming
+Add find all button
