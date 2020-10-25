@@ -235,3 +235,78 @@ expand variables sections
  Add the Chinese document translated from English
 added "file nesting" support, based on file naming
 Add find all button
+Reduce host service dependencies 
+Send `vscode.workspace.onDidCreateFiles` events for folders #109088
+Git Diff editor: show path as description
+Git: Add tags to '...' menu
+Fixes cannot disable file auto save when configuration target is other than user
+Add simple browser extension
+message "Would you like to stage all chages?"
+IndexedDbFSP Perf/Correctness Improvements & Tests
+reduce number of files in the emmet extension
+Typo: Uncommited ¡ú Uncommitted
+Take editor groups into account in navigation history
+Suggest shouldn't trigger on all characters in comments
+Added extensibility points for searchView/context
+make openFile() respect enablePreview setting
+Update OneSnippet#move method to fix #96545.
+markdown smart select
+resources#relativePath does not honour path casing strategy
+Fix indentation logic for Emmet:Remove Tags
+#fix: 107491
+fix #108673 Put FileSystemProvider error message into settings.json create-failure notification
+Enable tsec as language service plugin
+#fix: 108459
+Add case styles converter to user snippets
+Typo hightlight -> highlight
+Fix overlay area for minimap slider
+Add updateTextFromFindWidgetOrSelection method to SearchView
+Implement selection paste for integrated terminal on Linux
+Environemt -> Environment
+Ignore LineDecoration order when comparing
+Try new Rust grammar
+Cache file tree in memory and batch transactions.
+Configuration variables: unsafe file path usage
+Update CodeActionOnSaveParticipant
+Expose output from executable debug adapter
+option to have --no-edit when amending commits
+Create empty commit with changed files #107753
+Honour opt-out for crash reporting
+Allows for filtering by file extension in Change Language Mode
+Replace panel: allow to validate using keyboard any time, not only when replace string is active
+Using global-scope isWorkspaceShellAllowed with folderUri
+Quiet Light theme diff syntax highlighting
+106907-When-stashing-use-commit-message
+Adding a quick tip in debug hover mode
+scmViewPane: do not render whitespace in commit message input field
+Switches the 'Fix all' quick fix provider to use resolveCodeAction
+Search In Open Editors
+fix #106487 Contribute an "activating" placeholder message and button
+Adds a vscode.hideView command
+support to delete remote tag from command palette.
+Fixes [Terminal: Clear] command
+Implement vscode-file:// support and drop node.js for window loading
+Make editorGroupToViewColumn return 0 instead of throwing error
+Initial sketches for copy/paste action provider API
+Add atomic tabs option
+Pr/34997
+feat: detect default stash message microsoft#106907
+hover info should not be broken within word
+Fix composition logic for Firefox
+fix logic for NPS/Language survey prompt
+remove only disabled breakpoints
+Allow tabs to wrap to multi-line
+Use the git submodule's name in source control view
+:up: vscode-sqlite3@5.x
+Provide option to default to github provider for git.api.getRemoteSources
+Add editor setting to prevent auto closing of specified pairs
+Smart-commit staging bug
+Add dirSep variable for launch.json
+Tweak Welcome page's Start section
+add compliance pipeline
+Added usage for workspace.openTunnel()
+Git status is not displayed in explorer sidebar with soft link
+Exploring a pkg installer for macOS
+Update imports for all files
+Update files in vscode/src/vs/code to improve the copyright headers as mentioned in #96747.
+Multiple theme ID scopes for customisation

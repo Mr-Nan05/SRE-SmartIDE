@@ -14,6 +14,7 @@ BOT_NAME = 'SmartIED'
 SPIDER_MODULES = ['SmartIED.spiders']
 NEWSPIDER_MODULE = 'SmartIED.spiders'
 
+USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'SmartIED (+http://www.yourdomain.com)'
@@ -23,7 +24,8 @@ ROBOTSTXT_OBEY = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
-
+FEED_FORMAT = 'txt'  # 最后输出的文件格式
+FEED_URI = 'pr.txt'  # 最后输出的文件名
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs

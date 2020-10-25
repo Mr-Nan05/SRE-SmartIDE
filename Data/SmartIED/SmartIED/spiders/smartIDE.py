@@ -3,7 +3,7 @@ import scrapy
 from SmartIDE.items import PullRequests
 
 class SmartideSpider(scrapy.Spider):
-    name = 'smartIDE'
+    name = 'SmartIDE'
     allowed_domains = ['github.com']
     start_urls = ['https://github.com/microsoft/vscode/pulls']
 
