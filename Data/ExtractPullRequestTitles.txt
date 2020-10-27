@@ -1,0 +1,106 @@
+Added extensibility points for searchView/context
+Add case styles converter to user snippets
+Add updateTextFromFindWidgetOrSelection method to SearchView
+Try new Rust grammar
+Configuration variables: unsafe file path usage
+Update CodeActionOnSaveParticipant
+Add new property to IConfigurationPropertySchema
+Allows for filtering by file extension in Change Language Mode
+Replace panel: allow to validate using keyboard any time, not only when replace string is active
+Using global-scope isWorkspaceShellAllowed with folderUri
+Adding a quick tip in debug hover mode
+Adds a vscode.hideView command
+support to delete remote tag from command palette.
+Implement vscode-file:// support and drop node.js for window loading
+Add atomic tabs option
+remove only disabled breakpoints
+Allow tabs to wrap to multi-line
+Add editor setting to prevent auto closing of specified pairs
+Add dirSep variable for launch.json
+add compliance pipeline
+Added usage for workspace.openTunnel()
+Update imports for all files
+Update files in vscode/src/vs/code to improve the copyright headers as mentioned in #96747.
+feat(extensions): added an option to disable related dependencies when disabling an extension with enabled dependencies
+Zoom: remove webFrame dependency from renderer
+Avoid rendering minimap if the frame already shows all the code
+Git: Add cherryPick command
+Show active repository name in status bar
+Update copyright headers
+Add git.pushTags setting
+Remove find error messages for webviews
+feat(quickinput): support codicons in prompt
+Add activation events for providing/resolving tasks (TaskProvider extension API)
+Add setting to modify copy separator
+Support `args` for `workbench.action.selectTheme`
+Allow calling extension language features even for big files
+#97684 Add alt-click & actions to fold/unfold surronding regions
+added registry keys for libraries in explorer right click context menu
+Remove padding left from first child label in a compacted folder label
+explorer: support for dnd remote resources
+Add next/prev conflicts
+Add force checkout and smart checkout
+Add rename by git context menu
+Multiple selections with find and replace
+Add better support for checkout type config
+New Sort Order Lexicographic Options setting for Explorer
+Don't fail when resolving config variables without a `folderUri`.
+Add #96264: Checkout git with detach flag
+New Option: editor.deleteAllLeadingBlankCharacters
+Add option to disable dirty editor widget
+Show keybinding source in GUI
+Show repository name in status bar
+Use new debug colour contributions in built-in themes
+Offer to show git command output on failure
+Issue 92279: New feature for adding multiple diff decorations
+Show cursor in diff review
+#13680 git support private key password
+After adding remote, run fetch
+Added a setting to open cloned repository automatically.
+Added a warning before dropping a stash.
+#7989 Git: Allow empty commits when merging
+Resolve and replace commands for next command
+Feature/remove example from copied files
+Support using theme icons in webview iconPath
+Allow git amend message only
+Support for multiple values in git.path in settings.json
+Allow enter shortcut#85850
+Enable ok button for extensions using quickpick
+WIP: Support fingerprint verification confirmation
+add ignoreSubmodules option
+Show a rename entry in the refactor/lightbulb menus
+Add web-standalone build
+Correct explorer opening & add ctrl double click support
+feat: Add editor selection evaluation for debugger
+#85320 Allow seeding find box with multi-line text
+#27498 restore extension editor webview scroll positions
+Support for tokens expanding to search include patterns
+Add an Option to Evaluate the Selected Text While Debuggee
+Enables dependant variable substitution
+Add Repl Filter (#4338) WIP
+Open existing keybindings in new editor
+Add folding from end of region
+Support object types in `when` conditions
+Add multiselection support when installing extensions from VSIX files
+Allow to hide editor title section entirely (tabs, breadcrumbs)
+Removed max-width restrictions from the .monaco-editor-hover #69835
+Use schemastore catalog to add schema associations for json files
+Extension recommendations based on workspace remotes
+Add follow on Twitter badge
+Update README
+PR-7842: search for extensions via command line #7842
+Make extension detail styles more responsive
+Store translation paths relative to the extensions directory
+Add support for predefined variable ${fileDirbasename}
+add custom folding strategy
+Simple implementation of drag and drop installation for VSIX extensions
+#40288 find replace in resolved config variable
+Allow an indent increase pattern to span multiple lines
+expand variables sections
+ Add the Chinese document translated from English
+added "file nesting" support, based on file naming
+Add find all button
+Git Diff editor: show path as description
+Git: Add tags to '...' menu
+Add simple browser extension
+reduce number of files in the emmet extension

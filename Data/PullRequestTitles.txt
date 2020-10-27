@@ -244,7 +244,7 @@ Add simple browser extension
 message "Would you like to stage all chages?"
 IndexedDbFSP Perf/Correctness Improvements & Tests
 reduce number of files in the emmet extension
-Typo: Uncommited ¡ú Uncommitted
+Typo: Uncommited ï¿½ï¿½ Uncommitted
 Take editor groups into account in navigation history
 Suggest shouldn't trigger on all characters in comments
 Added extensibility points for searchView/context

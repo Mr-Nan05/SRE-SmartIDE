@@ -1,0 +1,124 @@
+Extending vscode intellisense
+Extending settings.json in VSCode
+Extend markdown in vscode tmLanguage
+Can VSCode start a selection that will automatically extend with cursor movement?
+How to extend existing javascript type without type checking errors in vscode
+Can I extend the default URI schemes that vscode detects?
+Extending VSCode, custom UI
+How to extend VSCode code completion with a third-party JavaScript library
+How to create a modal for a VSCode extension?
+How can I extend the window reuse code paths in vscode and Azure Data Studio?
+Haskell error in VScode: "Error during extended interface generation"
+VSCode and Vue 2 plugin TypeScript definitions
+vscode: task extending another task / passing parameters
+VSCode Extension Show Functions
+Why is navigator.getUserMedia undefined in VScode extension webview?
+Better way to extend SVG.Element that lets vscode know the change has been made and provides documentation
+VSCode: Automatically open .html files in one window and .ts in the other
+VSCode: Using language servers to extend client "grammars" and/or "snippets"
+Guide for extending the Javascript language on VsCode for a 3rd party API
+How to ADD grammar and configuration to an existing VSCode language extension with an Extension?
+Can I search and extend VS Code settings.json recursively along parents to extend settings?
+VScode editor .xml file extension to show html file inside editor
+requiring vscode in a vscode extension
+Is there a way to use a tmLanguage grammar to extend vscode integrated markdown extensions syntax highlighting?
+How to extend selection in PyCharm?
+How can I extend existing tmLanguage Colorizer/ Syntax highlighter?
+Extended tsconfig.json cannot find type definition of scoped package in VSCode
+waht is the meaning of angular bracket in showed documentation for javascript by vscode
+VSCode not picking up jsx when tsconfig is extended
+VSCode I am not able to save SCSS and HTML files
+Typescript extend module (augmentation)
+How to use multiple tmLanguage files in vscode extension
+does a "fake folder structure" Extension exist in VSCode
+eslint-config-airbnb global installation and VScode
+Can we show errors from multiple tsconfigs in Vscode?
+Typescript extend Request type from Express
+Extending documentation for object
+Match words and sentences between HTML tags while ignoring whitespaces at the beginning and the end
+Is extending a typescript namespace not allowed if defined with `export as namespace`?
+New line (\n) before every sass rule in css comb, like @import @extend ecc.. How to avoid that?
+How to pass along .d.ts comment on function that returns a class extending React.Component (vscode)
+Typescript: Generic to specific type
+VSCode is not showing custom completion suggestion if cursor is positioned on specific character
+Typescript extending third party class error: ElementHandle only refers to a type, but is being used as a value here
+VSCode Remote - Add to Existing - Breaks Container
+Competing Language Configurations in VSCode Extensions
+Errors when setting up Shell Launcher Extension for VSCode with Anaconda Prompt and Git Bash
+VScode not picking up eslint.rc, but terminal is
+How do I add attributes to existing HTML elements in TypeScript/JSX?
+Use Next.js with typescript but can not apply generic in WithRouterProps
+How can I synchronise eslint or setup similar tslint and prettier with typescript?
+Is it possible to see all active rules from a complex eslint config?
+How to reuse/extend/inherit code editor class in vscode.CustomTextEditorProvider class
+How to set up eslint with Airbnb style guide in VSCode
+VSCode JSDoc - define dynamic property type
+How to show an options dialog to the user?
+Extending an interface from another npm package
+Extending Array primitive in typescript (angular-cli project)
+Eslint and prettier in typescript project - disable prettier error
+Always getting 'definition for rule 'no-useless-catch' was not found' in Eslint (v 6.0.0) when doing import React
+How VSCode Handle Conflicting Intellisense extensions on hover
+Can't use new Angular Fire 2 update with angular seed
+TypeScript: extending interfaces and hover hints
+Difference between extending interface and intersection type for props extending RouteComponentProps in Typescript React class component?
+Using untyped javascript modules with Typescript: Property does not exist on type 'unknown'
+Can a language in Visual Studio Code be extended?
+eslint does not warn on non existing class method
+Constructor of a custom promise class is called twice (extending standard Promise)
+ERROR in node_modules/@angular/flex-layout/extended/typings/style/style.d.ts
+Add untyped JavaScript options property to declared class
+Arrays and generic classes that extends another class: Possible in typescript?
+Generic typescript component inherit component props
+ES6 and type definitions: dynamically assign a type to a super class' property and for intellisense
+fork-ts-checker-webpack-plugin giving errors about @types and Mocha
+Defining an interface for an object which is extended by another interface
+JSDoc document object method extending other class
+Typescript field does not show up
+I have a grammar in my vscode extension. I want to programmatically identify comments in a TextLine or TextDocument object
+phpfmt php formatting extension eror: phpfmt: php_bin "php" is invalid
+Can a `DocumentFormattingEditProvider` distinguish between a manual `Format Document` command and a `Format on Save` event?
+Angular 2 - Custom Pipe with <T> to avoid losing intellisense in vscode
+How to comment in package-scripts.js to show up in package.json?
+How can I access picture in picture related function in angular typescript?
+Person extends Object but does not override toString
+How can I show basic class attributes from intellisense later (like after dot) in Visual Studio Code
+VSCode - Add filetype icons to QuickPick list
+How to disable auto save on test file for visual studio code extension test
+Autocomplete for kibana types in kibana-plugins
+Learning How To Develop Extensions
+in TypeScript, how can I create an extensible generic type with children of the same type, with a default type?
+Dealing with "Failed to load plugin 'react' declared in '.eslintrc': Cannot find module 'eslint-plugin-react'" ESLint error
+Can VSCode / Typescript do Type inference on plugin-modifed objects?
+Is there a way to use PowerShell ISE Add-ons on Visual Studio Code?
+Redirect Extensions Directory for vscode
+How to document a HTML node function in jsDoc?
+Extended commit description message in android studio
+How to share extensions and settings with VS Code stable and insider build?
+Visual Studio Code Plugins (Format / Spell Check)
+Adding color theme only for a specific language
+How to make VS Code to treat other file extensions as certain language?
+VS Code extension API: Is it possible to extend/enhance the existing file explorer?
+Is it possible to change vscode settings from my custom extension?
+Custom HTML Snippet for web components
+How to render a 3D object to HTML file by using pythonOCC in Django?
+Vue website complains that JavaScript isn't enabled after Vuetify is added
+Why eslint-plugin-react-hooks doesn't warn when using react hooks conditionally?
+Why doesn't .gitignore.txt file show it's name in windows10?
+How to force .vue extension in all imports using eslint?
+VS Code Extension: How do you set an order/priority to the extension's settings/configurations?
+Visual Studio Code: How to add checkbox in view container
+How to add a constraint on a map in a generic?
+Can't add mongodart in a flutter file which contains a StatefulWidget
+HTML pages aren't extending from other HTML files
+Does Angular CLI prevent timestamp update for *.TS files?
+Is extending a widget really an antipattern?
+Angular CLI output - how to analyze bundle files
+Where are the docs on how to add symbol support for a language to Visual Studio Code?
+vscode and eslint wrong indentation on <Text> | JSX | React Native
+Extending JavaScript syntax in Monaco Editor with full integration
+Angular Reusable Modules and Components
+ARM Deployment of an Angular Project to Azure Web App
+Cloud Function that moves documents between collection
+TypeError: Cannot read property 'cwd' of undefined
+Checking if control/command key is currently pressed in VS Extensions

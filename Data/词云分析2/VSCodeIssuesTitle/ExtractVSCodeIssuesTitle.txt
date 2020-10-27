@@ -1,0 +1,1543 @@
+Integrated terminal: Random laggy experience
+Markdown syntax highlight does not follow specification
+Remote SSH icon missing
+View action bar hides on problems filter context menu
+JS autocomplete doesn't work in object literals
+Option to emit forward slashes for workspaceFolder and fileDirname variables on windows
+launch.json preLaunchTask fails linking, but build task is ok
+UI items are incorrect order when applying the language pack
+vs code ctrl+n not save in currently opened directory
+"Starting..." label on remote terminals doesn't show up until the remote is already connected
+VSCode file open dialog box does not respect display scaling from remote session
+SCSS Attribute Selector Syntax Highlighting Broken
+Can't use Git Windows when project is opened in remote WSL
+Option to change the title of the integrated terminal in vscode?
+Option to create a template out of our customized launch.json in vscode?
+Markdown hovers in `IconLabel` shouldn't preclude decoration hovers
+IconLabel markdown title debt
+Launch configurations opening user settings should respect remote connection
+Sign in with GitHub account failed in administrator mode
+Git login GUI in more actions tab
+Keybinding not working for terminal.focusNextPane or .focusPreviousPane
+Terminal passthrough commands/keyboard shortcuts
+[scss] Extra colon on pseudo-element tab completion
+Shortcuts don't work properly while using Python Notebook
+Keybinding issues in codespaces
+Editor context menu sometimes wrong
+Unable to type characters when they are set a shortcut key
+TS file not save
+Dispatching KeyboardEvent on Webview fails to work only on Windows.
+symlink prevents JSON schema from updating validation
+Autocomplete removes text after completion V1.50.1
+No Application Launcher entry of Visual Studio Code in Kubuntu if installed via Snap
+vscode.debug.startDebugging should support named automatic (dynamic) and global (user settings) debug configurations
+The Ctrl+R in integrated ZSH terminal does not open `bck-i-search`
+MarkdownString.appendText doesn't escape quote
+ThemeIcons not always rendered in vscode.MarkdownStrings
+Provide Button to Show Additional Detail When Extension Install or Update Fails
+Open vscode:// links on the extension page
+Unexpected line-break in integrated powershell terminal after using Terminal:Clear command
+Make problems filter apply in the editor view
+Opening Files Through Relative Markdown Links Ignores Custom Editors
+Different result between external and integrated terminal when reading Cyrillic with encoding=GBK
+[VCQ][DevDiv_VSO][VSCode][Source ambiguity: Focus Settings Search]
+[VCQ][DevDiv_VSO][VSCode][You have {0} installed on your system: ambiguity]
+[VCQ][DevDiv_VSO][VSCode][Source Ambiguity: Format the whole file.]
+[VCQ][DevDiv_VSO][VSCode][Source|Ambiguity: confusing sentence]
+Matching bracket decoration and :after decoration clash
+Files created inside VS Code but saved outside of current project are not found in Recently Opened
+[Screencast Mode] When a keystroke is pressed, it should display the name of the action alongside what keystroke was triggered 
+Kernel Picker displayed when running cells before preferred kernel is auto selected
+A keybinding when-clause for if the cursor is on a followable link
+[Feature Request] Add "search in directory" to the project explorer context menu
+Allow extension developers to specify a validator regex(or even an async validator function) for the extension options
+Cannot disable file auto save
+notebook integration for markdown <code> cells
+Multi root workspace - Variable for the current file's workspace directory
+Auto Build Marlin - command not found: platformio
+File-Save on a .ipynb does not remove the * on the tab and 
+Customize links discovery/handling in Debug Console
+Setting sync does not recognize github account for the github pull requests extension
+Active indent guide scope improvement
+Provide dedicated keyboard shortcuts for changing active stack frame
+Telnet on integrated terminal doesn't report correct window size when rendering mode is canvas/webgl
+Safari/iPadOS: UI affordance for non default cursor style
+Safari/iPadOS: tree view title requires multiple clicks to expand/collapse the tree view
+Safari/iPadOS: no UI affordance when hover on sash
+Safari: settingRowFocus context key not reset after switching away from it
+Follow Link tooltip for urls in markdown files encode query string unnecessarily
+Safari: keybindings editor input not focused automatically
+i cant launch terminal on win 7
+Re-run last launch command with state
+Opened pdf in VSC tab cannot be closed with shortcut CTRL+f4
+Generate keyboard reference sheet from VS Code actual key bindings
+"debug.node.autoAttach" showing Unknown Configuration Setting
+Web: never unbind Cmd/Ctrl+W or other keybindings in browser
+Add support for filtering in the output window
+Quoting of "args" value in launch.json is incorrect
+Allow to download the extensions only once to be used on remote connections
+Debug and problems filter should be consistent
+Quick way to navigate to a folder in the explorer (left side)
+Ignoring/autodeleting capital '§±' (cyrillic 'P') in paths
+Windows Integrated Bash Shell -- long startup
+Upload file (on save) using diff strategy
+Remote-SSH: Support trash
+Some of VS Code shortcuts broken after upgrading to 20.04
+ ctrl+enter shortcut key is not working for git commit
+Support for Xtext-issue-style links (line number & column) for links inside the terminal
+using keyboard shortcut to copy selected text in large file is not working
+cnnnot input chinese and diplay in integrated terminal
+Tasks: before shutdown cannot be async in web
+Terminal: before shutdown cannot be async in web
+Settings sync: before shutdown cannot be async in web
+Microsoft Visual Code could not hightlight CSS syntax if the <style> open tag and </style> end tag in same line
+Error while starting Settings Sync: Server returned 502
+UI should make it clear if the DA does not support breakpoint conditions or logpoints
+HELP. "The terminal process failed to launch Exit code -1" - VSCODE
+Context menu actions are always executed twice when clicked on Firefox
+WSL launching 1.50 - "Window has crashed"
+Integrated terminal very slow 
+Built-in Markdown preview is often fluttering
+Save As - Doesn't work for custom editors
+Preserve per-window environment variables between workspace changes
+IndexDB file system provider needs a good test suite
+Arguments for Powershell in integrated terminal not working as expected
+[Debugging] RunInTerminal doesn't use the specified integrated terminal from workspace settings
+Math support in native notebook markdown cells
+Feature: Open new links to extensions in a VS Code tab itself
+Markdown preview flashes when live editing the contents
+Native windows titlebar keyboard shortcuts are broken
+Make Enter key behavior not depend on last element clicked during find+replace
+Editor Find doesn't support args passed via keybinding
+Format on Save (prettier) stopped working with latest update
+Allow for camel case matches in editor history
+ShellExecution issue with env variables.
+"The specified task cannot be tracked" while waiting for user input variable in a "preLaunchTask"
+Debug console auto-completion interferes and messes up my command when it shouldn't (AKA return key grabbed from me when it shouldn't be))
+Accounts sync menu registers unintended clicks
+More keybindings for splits in quick open
+Unknown Error on Sync settings
+"\s" should match new line ("\n")
+allow codicons to support file icons with $(...) replacement syntax
+Error while starting Settings Sync: No authentication provider 'github' is currently registered
+Settings Sync GitHub Authorization permissions request
+Settings Sync SignIn with GitHub fails
+Terminal tooltips render markdown if they span a range that includes colons
+Language server keeps restarting on save
+Diff action buttons are too far from the gutter
+CSS unknown property for "content-visibility"
+vscode://vscode-remote/wsl+distro links always opening in a new window
+Add keybindings to "Kill Terminal" action
+Allow quick open to open multiple files
+Clicking Tools and Languages hyperlinks has various unexpected behaviors
+Find/replace dialog not consistent in spacing?
+Save As - Doesn't work
+Option to display colorDecorators at right of CSS colors
+Pressing Ctrl+Q key combination with terminal focused opens Quick Actions
+integrated terminal tab can`t move
+SCM message box grows in height when message text input and SCM sidebar visibility toggled to visible using keyboard shortcut
+SCM: Repository.ui.selected has inconsistent behavior
+[marketplace] Markdown link parsing
+automatically remember indentation settings
+Format code keybinding prints a small tilde character in the editor
+Add "Replace Remote" to Settings Sync Turn On options
+Add when clause context for embedded language ID
+Theme variables for notebook renderers
+[json] schema fileMatch fails after a second workspace folder is added
+Activity bar context menu actions not aligned 
+Integrated terminal not working
+Settings UI dropdown list is not dismissed when setting editor is closed
+Auto close external console
+Open launch.json after writing new config to it from "Debug: Open Link"
+Undo of replaceNotebookCellOutput doesn't do anything
+Cursor Blinking in Integrated Terminal
+New search results cleared after search-and-replace operation finishes
+Configuration variables: unsafe file path usage
+Voice over does not read that a setting is ignored to sync
+Boarder overlap in setting sync 'select service' UI
+Remote-ssh: filter recent projects list by attached host
+vscode-file build: unable to load sourcemaps from asar paths
+vscode-file: build cannot open release notes (CORS)
+vscode-file: devtools shows access errors when switching between file/vscode-file builds
+Add Pin/Unpin to context menu
+Fallback format on save mode when VCS not activated.
+Notebook UI freeze when outputs keep updating
+Cannot focus closed markdown cell when focus lost
+Terminal navigation mode broken
+Python libs build for Mac OS X 10.13 do not work on previous version os x
+GUI will become blur after every updating [Screenshot inside]
+Terminal Integrated Split Cwd not supported chinese root
+Context menu doesn't work with a Touchscreen
+Debug Variables View does not show multiple variables from Debug Adapter when names are not unique
+arduino port lose
+History on Debug Console filter lost
+Remote Explorer shows multiple remote types on first load
+Remote Host status bar entry has no max width
+Memory run out when start vscode from gui (ubuntu 20.04)
+Support smart selection for markdown
+The terminal output strange character when I following the link
+Shortcut translation error
+lineNumber variable doesn't work when used inside `window.title`
+Asynchronously show completion items from different sources or extensions!
+Request: Typographer option in Markdown preview
+Unify terminal and output local link detection
+"Open file in editor" Terminal text tooltip link broken
+Support tab completion / custom key handlers in QuickPick
+'Run' sidebar: Launching multiple sessions causes 'More' button to be hidden
+Layout issue with repl filter in debug pane
+Ability to toggle warnings and problems squiggly lines
+Preview Notebook Editor does not support markdown
+Allow ${Tokenizing} Capture Group in Search and Replace
+Find/Replace in Selection doesn't obey current selections when not whole lines
+Simple file dialog: use auto-complete style in the input box
+Search view: I ofter hit the dismiss button by accident
+Settings sync - client side telemetry
+Format on save mode: modifications caused invalid formatting in JSON document
+Autohide Minimap
+Extension list, clicking on multiple extensions quickly loads them twice
+Add selection to next Find match does not work with Regex Find Mode
+Keyboard shortcuts for Markdown in Jupyter notebooks
+VSCode crashes when launching from --verbose mode in WSL
+Async import 'windows-process-tree' can load even more lazy
+Buttons and commands associated with a custom editor are gone under a certain scenario
+New "colorCustomizations" options "editor.findMatchForeground" & "editor.findMatchHighlightForeground"
+iPadOS: Zen mode is not working well unless in PWA mode
+quick open should have prefill highlighted text
+Timeline - "Uncommited changes" not showing if launched with wrong letter casing in the path
+[UI-Theme] Sidebar color selection/hover/focus should be independent from List
+Debug Call Stack UI for multithreaded programs does not show `text` on hover because inline actions appear
+Save all in all opened windows
+Code action provider called twice on save
+Makefile should auto-indent after first line of a rule
+Apple Silicon Experimental Build Restart after Settings Change does not work.
+Change Language Mode drop-down should allow filtering by file extension
+Asterisks not working in console filter
+Show icon in Change language mode doesn't work anymore
+Integrated terminal stopped to work for debugging after insider update
+Problem in settings sync
+Use remote ssh and modife the file in terminal, then the file was deleted when i quit
+Quick pick: selecting entry with keyboard does not put focus back to editor
+Investigate predefined file filters search
+Rank exact match over history matches
+Cannot start Terminal (sudden change) - The terminal process failed to launch: A native exception occurred during launch (/lib/aarch64-linux-gnu/libc.so.6: version `GLIBC_2.28' not found (
+PATH environment variable not consistent for Extension Host
+Stablize apple silicon exploration builds
+Investigation: Installing the Remote WSL extension out of the box
+Diff highlighting breaks with Quiet Light theme
+Explore customizing the markdown renderer for notebooks
+File links open as folders
+Editor preview mode for debugging only
+Refactor terminal launch logic to defer process creation until after the container is ready and measured
+Cannot run C# tasks on Linux - "Path to shell executable "dotnet" is not a file of a symlink" error.
+CSS Emmet is slow
+Add `selectBrackets:false/true` argument to `editor.action.smartSelect.expand` (keybinding)
+The breakpoints UI is really confusing
+Auto closing quotes not working on Ubuntu 20.04 with English (US, intl., with dead keys) keyboard layout
+Custom menu: does not show on which list element the context menu is triggered
+About mouse linkage
+Remote WSL: Run active file in terminal does not work for local files
+Multi-Cursor, Wrap lines, Selected Text and cursorLeft ==> cursors out of sync
+remote extension crash/disconect
+Anaconda commands on visual code remote terminal stopped working
+Provide option to default to github provider git.api.getRemoteSources and potentially list org repos.
+Markdown: Different Slugify Function Implementations for Header Anchors
+Can't launch with preLaunchTask and execute vscode command
+Expensive scopes should be automatically collapsed after an evaluation
+restart task with keyboard only
+Visual hierarchy in display of search match.
+Rate limit Global storage updates during Settings Sync
+Allow contextually visible whitespace
+Opening link in Markdown file wrongly decodes %2F
+Find and Replace - REGEX named capture group support
+Problem editor overlay should auto dismiss after problem is rectified.
+setting UI: support color settings
+Custom text editors do not free up untitled models
+Support filtering on input only
+Can not go to fullscreen mode while debugging
+Remote Uri are extremely difficult to handle correctly as an extension dev
+Shortcut conflict of Alt+R
+Code cell vs markdown cell
+Notebook: Split cell button doesn't work while editing Markdown cell 
+Notebook H4 Markdown rendered bold
+Make the other debug actions a button to improve discoverability
+Typing "/" (in XML-Tag) always inserts ">" automatically, even if I deactivate "Auto Closing Bracket" completely
+Support filtering debug console items by level
+Auto attach versus debug terminal
+Notebook cell execution model
+Rename on type: undo of paste edit is not linked
+Filter focus border not rendered when multiple views in panel
+Incorrect table format in Markdown preview
+"escape" to clear multiple cursors leaves edit mode on cell
+"Select all occurrences of find match" selects weirdly when word wrapping
+request: improve splitting/creation of local integrated terminal
+Quick pick: Support the recognization of an existing file when its path is begining with "./"
+Emmet CSS: NaN is suggested by IntelliSense as value
+Loaded Scripts source code does not show when debugging node against a remote process
+Workbench hovers don't support equivalent of "editor.hover.sticky" setting
+in remote-wsl running  image of docker  by  vscode 
+TypeScript QuickInfo should not wrap in the middle of an operator
+Prompt the user for multiple arguments in a launch.json
+[bug] Unable to open CSS color picker by clicking on color preview box in the CSS source code.
+Can't copy from markdown preview using Edit->Copy menu item
+Change default setting: "Preview Mode" from enabled to disabled
+VScode hangs when click on link in terminal
+Support to run web playground in remote env
+please allow a filter on not installed extensions too
+Windows Magnifier not following active menuitem
+When switch config, it would great switch target device automaticly
+Global context key for viewType
+Add toml front matter support for Markdown
+Integrated Terminal Lags Intermittently 
+No settings UI to add a default formatter for a specific language
+Keyboard Shortcut: Command for workbench.action.debug.selectandrun
+Error while starting (Settings) Sync: Proxy Authentication Required
+[theme] allow variables in the color theme definition file
+Split "search.exclude" setting into two settings: one for search in files, and one for quick open
+Screencast Mode only settings
+color picker resets back to old color on save
+Shortcut to add multiple cursors to selection while in find input
+[Request] Support for formatting when close bracket is injected by editor.autoClosingBrackets
+Make suggested keyboard shortcuts clickable
+Have separate key shortcuts for "Replace" and "Find Next" in find/replace dialog.
+Default replace string to selection
+Improve keyboard shortcut sync failure flow
+Multiline problem does not match subsequent occurences
+Support predefined variables in find/replace
+Clicking link in md opens copy of same document
+Launch VS Code from command line in background
+Built-in command `editorScroll` lags when scrolling up.
+In blank tab, remove line when keyboard shortcuts are "unbound"
+git.enableStatusBarSync does more than it says
+Settings Sync.... Microsoft... Sign In... Localhost:56962... Connection not secure
+Snippets + Auto-closing pairs don't compliment each other
+Git: Stage selected ranges on unsaved file stages everything
+Git: Add support to delete remote git tags using command palette
+Not able to turn Settings Sync on after changing github password
+Debug variable hover not rendering 0 (zero) properly
+Segmentation Fault on current dev channel insider Windows build when using WSL 2
+[Settings Sync / Stable] Invalid "Microsoft Sign In" redirect when enabling settings sync + connected to WSL2 (Remote - WSL extension)
+[Settings Sync] Can't see "accept remote" button in in-line diffs
+Allow settings sync history to be exported
+Can't turn on Settings Sync with Microsoft Account while working with Remote Extensions
+[Settings Sync] Cannot resolve merge conflicts
+Unable to switch github account in settings sync
+Flaky test: showQuickPick, select first two
+Report trusted type violation during build and in editor
+VS Code doesn't open links with custom URL schema
+Prompt if new shortcut is conflict another after an update
+Open with encoding keyboard shortcut.
+frame WebViewes eat keyboard input
+Select text with touch / stylus / pencil over Remote Desktop
+Split launch.json in multiple files to allow local/shared configurations
+markdown internal file links don't work anymore
+Problem with including markdown as language for Emmet
+Accessibility on-screen keyboard
+Ubuntu 18.04.4 : Launching VSCode from a launcher (a system shortcut) takes long time and fails to retrieve/install/show any extensions 
+Middle mouse button scrolling not working
+Allow blocked environment variables through if they're included explicitly in terminal launch configs
+Feature request for integrated terminal: Add support for OSC 52 ANSI to allow clipboard synchronization.
+Don't prompt to enable language packs when they are installed through setting sync
+Two extra colons added when pressing tab or enter, when completing a CSS pseudo-selector
+UI progress indicator not clearly visible in the quickpick
+Disabling/Enabling extension that requires reload does not full sync automatically
+VSCode Integrated Terminal - ZSH Tab completion bug
+Settings Sync notification wording
+Create design guidelines for extension authors
+Link to docs on what `when` clauses mean
+Automatically update Sync Activity when there are changes
+Make problems ranges in problems view in sync with editor squiggles
+Debug Log filtering not working correctly 
+Supporting a way to log variables' values from non-debugger extensions
+Markdown Marketplace: no link, [foo](bar.com), inside literal text, single and triple back tick
+persistent notification covers the settings button when panel is on the right
+Tabs don't get replaced with spaces in snippet transformations
+Markdown dropdowns automatically collapse in preview when being edited
+VS Code doesn't always open in WSL Ubuntu remote server
+allow to compare context keys in when expressions
+Variable scopes are collapsed hitting BPs in VS Code
+Git: SSH error Permission denied in WSL2 + Remote Containers
+Allow users to save a default custom view/sidebar layout
+Custom editor issues: save and undo
+Git: Support Windows repositories from Remote WSL
+No launch feedback
+DebugConfiguration is an empty object when no launch config is present
+Support internal links to other cells
+Markdown cells don't support html in the same way as other notebooks
+[python] Add #region and #endregion to python autocomplete
+Error in debug extension mode in case if my extension depends on other which is not installed
+I can't browse links in virtual documents on VSCode using orca
+Extension API: QuickPick fuzzy search not finding results
+Markdown preview no longer shows images with path relative to project root
+Synchronize Changes doesn't push git tags
+tabCompletion=onlySnippets says "No suggestions." when there are multiple matches
+Open Zen Mode thorough command line arguments
+Absolute path for `program` property of node launch configuration is interpreted as a relative path when it exists on a different drive than the ${workspaceFolder} and integratedTerminal is used
+Random shutdown crash with OSS CI build
+Without accent on the linux integrated terminal
+Reloading window with folder and launched via the debugger makes it unresponsive
+Environment variables defined in task scope doesn't include the one defined in global scope
+Integrated terminal in macOS represents leading U+FEFF as single-width space
+Launch the app via open cmd on macOS
+[themes] autoDetectColorScheme not working on Linux
+VSCode Extension: Disable tree items when enablement clause on linked command is false
+Exclude symlinks from files explorer
+Right order of keyboard shortcut
+Built-in markdown preview & custom command execution
+Integrated terminal prompt shifting down 
+Ability to turn off the auto expansion of "go to problem" description
+WebView port mapping not working under Remote SSH
+No way for an extension to tell have vscode suggest .JSON when user saves file if it is not the main extension for json files
+Find shortcut does not edit search term after losing focus
+Have mnemonic as command model property
+Take dependents into consideration when using context.extensionMode
+Add support for SteppingGranularity in the UI
+Open remote settings GUI when extension executes workbench.action.openSettings with query in remote session
+What's new icon/UI for extensions (and future API)
+[MacOS] Crash when adding New Window Tab in Full Screen mode (Native Tabs)
+Increase discoverability of Alt-commands on menu buttons
+Typescript debugging: quick watch hover doesn't work for expressions with optional chaining
+cannot generate assets for a build and debug
+Explore showing indent guide in notebooks as a visual indicator that cells are "under" the markdown headers
+Remote SSH workspace color theme setting does not override default on startup
+Horizontal scrolling in quickpick
+leading TAB by snippets won't replace by spaces
+Debugger: debug.inlineValues support for case insensitive variable names 
+Autocomplete doesn't work when adding recommended extensions to .code-workspace file, but works when adding to .vscode/extensions.json
+Toggle Line Comment keyboard shortcut does not work
+Can't respond to keyboard inputs
+Not able to assign keyboard shortcut to "Source Action"
+"Add Selection To Previous Find Match" interferes with "Add Selection To Next Find Match"
+Extensions view details panel button focus missing highlight for first button 
+Allow to enable extensions if launched "with extensions disabled" or change to "with extension host disabled"
+Move to an blocklist environment variable sanitization instead of regex based
+Need option to minimize Exception (including shortcut)
+Simplified Text Editor Mode
+Quick open: Include symbols should not block the search based on filename
+Notebook UX - Markdown cell can only be grabbed by the indicator element
+Notebooks UX - language selector button
+Settings object editor: Ok button feels unecessary
+[css] allow to supress linting warning with ignore comment
+Allow setting key binding for clearing filter in explorer view
+Internal Markdown links don't work on codespaces
+Edit field in quick picker is inaccessible to screen readers
+vscode python debugging expand the content wrapped by the curly bracket in args automatically 
+Automatic github auth doesn't work with gist repositories
+Add several basic predefined variables for use in launch.json - e.g.  ${uid}, ${gid}, ${user}, ${home}
+Terminal filled with ^[[D^[[D^[[D^[[D when alt-clicking a link
+Crash on startup with remote CentOS
+Allow us to change the font type and size of find-replace widget
+Inconsistent auto-indent in code blocks inside TSX tags
+Auto updates never apply on macOS
+The unpin shortcut does not work on tab of Release Notes
+Show message when trying to assign an existing key chord as keybinding
+Printable keyboard cheatsheet with real bindings
+External Terminal broken when connected to remote WSL
+Investigate issues introduced by the Web UI stopped indication
+Allow custom tree hovers to be markdown
+git sync issue on an empty repo
+"Find in Folder" \ add safety to Replace All (in a file)
+Integrated terminal dimensions are inconsistent
+Fail to load timeline info when activate timeline view using keyboard shortcut
+Cannot run multiple debug sessons with the same launch config name
+Remote-SSH broken after update to 1.46.1
+runInTerminalRequest shows unnecessary output when kind: integrated
+Symbolic links to folders can lead to the same file opened in two tabs
+Silence the startup command printout in Integrated Terminal
+Better localisation support for error (original English button)
+Filter `Keyboard Shortcuts` by particular column
+Run menu does not remember launch configuration from settings.json
+Integrated terminal poor performance on WSL 2 (laggy)
+Extensions list doesn't auto-update when sync is installing extensions
+Large links cause lag in terminal
+[Feature Request] - Support Ctrl + L for clearing console to match Chrome and Edge consoles
+File find/replace dialog is pixelated
+Provide additional search context in terminal link provider API
+Launch config: Input variables do not work inside input defaults
+Environment variable does not work on launch file
+[scss] Support completion/intellisense of SCSS/SASS variables & mixins
+Automatically apply terminal environment changes to terminals that have not been interacted with
+VS Code specific environment variables shouldn't be passed on to debug targets
+IPv6 links in editor not opening in browser
+Create a context key for when the terminal shell has a program running inside it
+Ellipsis in search viewlet shows more UI, not commands
+Prepending PATH env var with environmentVariableCollection doesn't work on macOS
+Explorer using markdown-it in VS Code core
+Terminal links don't work with git bash paths
+Change preferences sync log time to use UTC
+Back off extension auto update when failed
+dark mode: unchecked checkboxes are hard to see
+Web: Support to save as admin
+Markdown live preview keeps moving editor downwards
+ A quick way to blame extensions
+Needs an updated guideline about how to contribute to translation after MLCP closed
+UI glitch in minimap and terminal panels when word wrapping
+Can't go back after showing same keybindings
+'Save All' menu item disabled when VS Code is reloaded with a custom editor focused
+Add restore context menu action for file entries in synced data views
+Notebook: undo to saved state does not clear dirty marker
+Add revert action in diff preview when opened from sync data view
+Integrated Terminal badly works with cyrillic lang
+sync stop
+Seti UI light-theme color tokens not accessible
+Should filter on type effect which files are reverted/staged by scm operations?
+Problems view do not show markers when Show Active File filter is on
+Find all references is not highlighting the match
+Support relative paths for images in markdown/rich output cells (of untitled notebooks)
+Settings sync - Diff view should include machine names in the tab name
+Settings sync - Cannot dismiss "Configure..." quick pick dialog
+Full view title isn't shown when a contextual title is defined
+CSS language features in safari do not work
+"Restart Frame" button is misaligned for frames with long names
+Mac os stuck in full screen mode
+Add buttons for filtering and sorting when searching for extensions
+Offer "Hide" as first entry to menu on home/menu context menu
+Loading freeze Mac when opening 2nd VS Code instance from Launchpad
+Integrated terminal suppressing select JIT debugger prompt
+Remove dependency on node require for startup code path
+Timeline doesn't show file saves changes
+CallStack: set inline context key on hover not on context menu
+Keyboard locks after a certain sequence
+Add visual indication for integrated terminal bell
+brackets inside file paths in the terminal breakes the follow link feature 
+Allow to modify hardcoded quick open keybinding shortcuts
+Search results UI does not respect results reported from custom TextSearchProvider
+[Integrated Terminal] Allow ctrl+backspace to delete entire word in cmd.exe
+Overridden replacePreviousChar does not work properly with macOS Japanese IME
+Choose different browser for integrated terminal links
+Intellisense auto-import useless because source package name is cropped
+Can't set up preferences-sync
+Integrated terminal breaks sometimes on window resize
+Allow extensions to fully control workspace symbol search (matching and highlights)
+API Proposal for multiline quick input
+Add an option to save files atomically
+Explore bringing GitLens "Git Commands" into built-in Git
+Unexpected and not-useful behavior of column mode re: untabbing.
+Support Language, not just Editor Language in the keybindings "when" property.
+[css][html] Option to disable MDN Reference popups only (without effecting other functionalities)
+Paths with spaces are not clickable in integrated terminal 
+Zen mode
+No images in jsdoc hover or notebooks in remote/web
+Start Without Debugging still launches program in debug mode
+Shell Script syntax coloring wrong when variable names end in digits
+improving diff ui / diff optical illusions
+Show All Tasks When Filtered Clears Filter
+Markdown in hover widget rendered poorly
+Context Menu Should Follow Access Key conventions 
+VSCode updated automatically and closed all windows
+Redundant conditions specified for keyboard shortcuts
+Update variables in Variable Window
+${config:<name>} variables fail to resolve in multi-root workspace launch configurations.
+Provide some richer (optional) UI for custom tree views
+Explore a richer ui for the account picker and settings sync
+Shift+option+f (Format Document) not working on India keyboard layout
+Support multiple link actions for a single link in the terminal
+Option to not follow symlink files in Explorer
+Notebooks: pasting notebook JSON into notebook should automatically add cells
+Support /mnt WSL links in windows not using Remote WSL
+Markdown preview fails to open after window reload on WSL
+Intellisense/Autocompletion initial scroll position problem
+[html] No values suggested for `autocapitalize`
+Snap version opens links in new Firefox process and profile, not existing process and profile
+Automatically move focus to working tree  compare when opening changes from time line view
+Add setting to specify shellArgs for the automationShell
+Resolve relative paths in terminal link handler
+Linked file does not show little linked arrow
+VS Code shows absolute paths in callstack when debugging with launch config in workspace file
+Separation (or mark) of disabled add-ons into built-in and additional ones
+QuickPick in web with VoiceOver does not read anything
+No commands to fold/unfold markdown content
+Add context menu action to copy and paste cell
+[Remote extension pack] - local and remote folders in file explorer to facilitate remote diffing
+Trusted Domains match missing
+Custom editor save issues
+The `logname` in the built-in terminal differs, depending on how you launched VSCode
+UI issue when editing breakpoints
+Accounts context menu should show what account is being used for sync
+Add back button to sync config
+Manage Trusted Extensions Quick Pick not useful when empty
+Account still claims it is used by settings sync
+No settings sync option in account menu after startup
+Relative symlinks fail to update when enclosing folder is moved to a different depth.
+Option to disable creation of a branch when a remote tracking branch is selected
+Add support to dispatch keybindings based on CAPSLOCK
+Notebook UI brain dump from implementing in PowerShell extension
+Notebook UI not applied to file that was already opened in the workspace
+Find & Replace \r\n says successful, but it did nothing.
+Auto-hide Activity Bar exactly like Windows taskbar
+Integrated terminal mouse reporting not working
+Compare editor is not reused when "Open Mode" is set to "doubleClick"
+Allow use of integer variables in tasks.json
+Consider to show dynamic launch configs in Welcome view
+Allow "launch" json setting to be placed into a "[language]": object.
+Codicons inside Markdown Table not rendered
+VsCode Variables Fail with Symlinks
+consider to add a table view for variables and watches
+terminal.newWithCwd still not working over Remote - SSH
+Documentation probably advises unlicensed use of Visual Studio Build Tools
+Dockerfile syntax highlighting doesn't work in markdown code block under list.
+commands work in terminal but not in integrated terminal Catalina
+Preference Sync fails to sign in on MacOS
+Extension Feature Contributions doesn't render markdownDescription
+Special character issue in the save file prompt message
+Add option to disable "quick diff" pop-up window
+Support terminal link keyboard navigation
+launch.json: support debug active test file
+Improve rendering of find matches touching each other
+Should we optimize sync setup for syncing everything
+Settings Sync unable login to MS account
+Searching a folder with markdown and notebook files
+Define keybinding button should match blue button style used elsewhere
+Support synchronising extension's global state
+Markdown not properly formatting links at Debug Tab
+[folding] mode to have region based folding only
+"Debug VS Code Main, Renderer & Extension Host" launch config fails with timeout
+terminal: navigation mode more commands
+Tabs get replaced by four spaces in IntelliSense quick info box (for JSDoc comments in JavaScript and TypeScript)
+Terminal "word" link provider does not support wrapping
+Keyboard shortcuts for switching focus between left & right sides of diff view
+Task terminal truncates long/quick output.
+Provide "links" from our extension API docs to sample usage
+Unit testing extensions is quite difficult
+Provide a UI component toolkit for WebViews
+Should provide buttons to select/unselect all changes when preview a workspace edit
+Internal Page links different in Marketplace vs VS Code
+Trim Final Newlines integrates poorly with EditorConfig for Windows files
+Sidebar overflow context menu does not appear when at bottom of the screen with multiple monitors
+Terminal canvas context loss is not handled
+`vscode-insiders` links being opened in Parallels instead of local instance
+Share "Reopen with" command and Editor Associations with notebooks, settings and keybindings UIs
+VSCode for Android tablet or desktop mode
+Prefernces Sync: Remote Backup showing empty diffs
+Display Language doesn't update automatically
+Confusion about how EnvironmentVariableCollection handles multiple extensions changing the same variable 
+Search for ignored sync settings or extensions
+Use a simple context menu for output mime type
+Terminal screen reader mode component isn't completely disabling a11y mode in vscode
+Settings UI: Support theming the line where user and workspace scopes can be selected
+Settings UI: Shift+tab focuses .settings-tree-focus-sync when it should focus the ToC
+The sync ignored icon looks off in settings
+Be more specific about sync time in settings editor
+Extension not synced indicator looks like a button and shows click feedback but does nothing
+Add selection to next find match not working across Cells
++ Code + Markdown weird design
+Quick input: consider to better indicate list focus
+Sync: View doesn't move when order changes in server
+Sync: Can't login using Github account
+Quick access: creating new entry should be aligned between debug, terminal and tasks
+Task Quick Pick 'Go back' has a '...'?
+Folder created in %APPDATA% in Portable Mode
+Allow context key expression that compares object properties
+js hover highlights class nested properties matching some reserved keywords
+Split terminal follows symlink unless terminal.integrated.splitCwd is "initial"
+Search: file search does not respect limit from quick open
+Documentation popup links are broken
+Can't drag files from a remote vscode window to a local window
+filter in the problems panel is too wide.
+API for improving UX in launch.json configuration  
+Better diff review keyboard navigation  
+Add "remove recent" action to recent tasks in tasks quick pick
+Opt in syncing global state
+'machine' scoped setting can't be applied in remote window from local extension
+Git: After cloning and no folder is open, add option to open the folder automatically.
+No Mocha test results in VS Code Debug Mode (TypeScript, async, fast-running, mocha tests)
+Terminal bell not availble in Remote-SSH mode.
+VS Code does not send a focused event on native context menu close
+Replace in search Editor
+Minor UI inconsistencies: Input theme references
+Minor UI inconsistencies: Alignments in Sidebar
+Launch Configuration "Attach by Process ID"  Not Showing Any Process IDs
+[rename on type] strange behavior with auto indent in closing tag
+Progress notifications: visually distinguish between title and message
+Quick pick: align or support codicons as resource label
+Hyperlinks don't open on Arch Linux running KDE Plasma 5
+Version control does not honor "remote.origin.push" git config.
+Variable substitution with environment - allow for fallback to default
+Variables not expanding when the terminal autoruns on startup (Win10 ¡ú WSL)
+Always be stuck when close lots of tab too quickly.  
+Error while starting Sync: Server returned 431
+[scss] support `@forward 'library' with` syntax
+Markdown preview window not sync when scroll
+Visual Code launches on wrong Xserver instance
+Debug: ILaunch#openConfigFile() should focus on launch
+Sync mutliple settings profiles
+Allow Shift+Delete to remove recently opened entries from quick pick
+Settings Sync : Allow for custom backend service end points
+Replace underbar in Parameter Hints with color
+Quick open file order does not make sense as designed
+Startup is blocked resolving configuration for a slow remote folder
+Markdown Preview - Navigate back
+Alias keybindings in command palette
+launch.json - allow serverReadyAction to launch another configuration
+Time line provider for sync resources
+"Add Selection To Next Find Match" not behaving consistent
+Git: After adding remote, run fetch
+Add a CLI for controlling the integrated terminal
+autoAttachChildProcesses looses uncaught exception output
+GUI displays goes wrong on Fedora 31
+Integrated terminal prompt erases history output when remote directory was opened
+Diagnostic link hovers should show target
+Custom editors: how to integrate custom text editor into workbench?
+Debug console suggestions should not fuzzy match on history entries
+Please allow toggling rendering and editing of markdown cells
+Revealing settings or keybinding files in explorer
+I shouldn't be signed in automatically when launching vscode with a fresh user data dir
+Search editor doesn't play nice with provided links
+Debug: 'Auto attach' does not work for new express app
+[folding] context menu on expand/collapse arrow
+Settings sync should debounce requests when a request is in progress
+Semantic Highlighting not shown in Markdown preview in TypeScript code
+Find/replace icons are not intuitive
+Find/replace dialog fights me on selection
+auto detect color scheme not working on Linux
+Explore animation for when sync makes changes
+Settings sync should support user tasks
+Consider exposing ITerminalInstance.shellLaunchConfig as a promise
+Sync remote extensions 
+Keyboard events not passed to terminal UI apps
+Buttons can disappear upon switch to and from another program
+User Level Tasks use variables defined in local tasks.json
+Support tmux control mode (-CC flag)
+Install all remote extensions locally [Remote: SSH]
+Include into tasks.json and launch.json
+Web: Tasks sync CustomExecution task should flush all data on close
+Provide a way to quiclky open an ignored file
+Support custom QuickPick filter logic
+Fitt's law fails on high DPI & certain zoom levels: close button not reachable at upper-right corner when maximized
+Administrator shortcut reset on app update
+Contextual "Manage" menu initially partially hidden
+Allow to use decorations in quick input (e.g. for editors picker)
+`Format after saving` scenario does not work with Format On Save. We cannot even just save files.
+Revisit snippets and quick suggestions
+Apply active filter in problems view to "go to problem"
+Blank VS Code window when rebuilding container after changes to Dockerfile
+Variable substitution in task detail property
+Black Screen after remote desktop
+Allow MarkdownString to whitelist one or more specific commands
+Markdown preview jumps a bit on every keystroke
+Merge comments if possible while syncing settings
+save/open dialog has wrong scaling on high res displays
+Emmet match tag not work with comments inside tags and Typescript inferred types
+Configure default build task clears comments from tasks property
+Proposal: expose manual installation of vscode-remote
+pipeTransport.pipeArgs command variable replacement not working
+Untitled file title gets in my way when trying to save
+Add a way to view all functions/variables/symbols/etc available in scope of where the cursor is?
+Diagnostic link clickability is confusing in problems panel
+Settings Sync: Ignore a setting locally
+Do not make requests if sync files are too large
+Use content hash to detect save conflicts and do not rely on size
+Restart Frame shown on async part of stacktrace
+Editor inputs have contributed commands in the context menu
+Enabling filter on type doesn't show search results in collapsed nodes until search query is edited
+Rename refactoring context actions work on the entire input
+[semantic][typescript] Highlight Global Variables 
+"Screencast mode" shows letters incorrectly when typing using Accessibility tools (like robotjs)
+Auto closing quotes in makefiles (*.mk)
+View Container Model does not fire events to update UI when views are moved
+[css] text-underline-position value completion is wrong
+[comments API] unnecessary markdown autocomplete when writing a comment
+Keybinding context for navigating up/down results from the findInFile (search across files) command while in the "search view"
+Integrated terminal not triggering zsh's "alt" bindkeys?
+debug requirements for TypeScript
+Searched term replaced with current selection when toggling sidebar
+Allow "inline" menu contributions to quick pick items
+Setting format error not reported in Settings UI
+Add "Expand All" Button to Tree (make "Collapse All" toggleable)
+Settings Sync: No way to specify a platform specific extension
+Link to doc page for monospace font notification in terminal
+Debugger doesn't cd and set env vars on first launch
+Manually triggered code actions can replace lightbulb actions
+Show indicator that setting is not synced
+Compressed tree: "autoExpandSingleChildren" options does not work for top-level nodes 
+Improve header(h1/h2/h3) styling in hover markdown
+In markdown hover, hr overlaps following codeblock
+Workspace shell permissions are not remembered with remote host.
+Bug when debug python file with vscode ssh remote
+Make it easier to define platform-specific keybindings
+Handle default platform settings while syncing
+[Regression of #9448] Lowercase drive letter in Windows integrated terminal
+Copying text from a Markdown document inserts non-breaking spaces instead of regular spaces
+Extensions cannot view updates to PATH until full relaunch
+Markdown Preview does not split to side
+Can't run commands from remote extension in a disconnected window
+No commit possible from GUI after resolving all merge conflicts
+ReplaceAll is not working with big files
+ Mouse back and forward buttons do not work on Mac OS anymore 
+Intellisense based on variable contents in debug session
+Incorrect behavior of 'Select all occurrences of Find Match' when 'Find in selection' enabled
+Allow to set explorer.autoReveal per specific folder
+VS Code should warn before stashing files with unsaved changes
+Improve task debugging by giving more context
+Auto save & new line prevents undo from working
+supportsVariablePaging returning true, yet variables are not paged
+Allow to override list styling for quick input and other places (notifications)
+Modal dialog buttons not visible when message is very long
+Accidental literal substitution in regex search for some matches (CRLF line endings)
+Misaligned icon in autocompletion list
+Quickopen results does not stream results by folder
+AutoIndent code incorrectly creates a Range with startColumn set to 0
+problems.showCurrentInStatus range is inconsistent with error squiggle range
+Backtick is inserted when assigning shortcut to cmd+` (AZERTY)
+Make css auto completion items overtype on semicolon
+[scss] provide hover for scss functions
+[css] hover for property values
+[scss] add parameter hints
+'Peek Error¡¯ reference box doesn¡¯t get closed automatically
+Minimap doesnt render cursor wordmatch highlights
+Disambiguate quickSuggestion from editor.action.triggerSuggest
+Font rendering issue persists on Windows (1.41.0-insider Build)
+Auto import does not work when in Live Share
+overwrite mode
+Support local paths in hover MarkdownString
+Settings editor do not retain filters when moved across editor groups
+[scss] references for all SASS functions/at-rules
+Switching language notification only has 1 button?
+Terminal processes on Windows (conhost.exe) do not get destroyed/reused for build tasks
+Vim in Linux - middle button paste on search
+Problemmatcher not work over ssh
+Quick pick doesn't use SPAA
+Markdown word not highlighting when using underscore to mark italic
+Mouse cursor does not reset to "edit cursor" when discarding/closing context-menus
+Should pasting newline with auto-indent move the cursor + inconsistencies when pasting newlines
+Support `code --install-extension` on the remote
+Reduce files in vscode remote distro
+Make remote timeout configurable
+[scss] provide hover information for at-rules
+Javascript: code blocks auto indent improperly when apostrophes/quotation marks are present
+Add a SaveAll event for extensions to listen for
+Sync: Have an option to copy the Sign In link
+sync settings: initial settings are lost when enabling `sync.keybindingsPerPlatform`
+Remote Explorer: when there is only one view, split view should not be present
+Debugger Cannot launch program if the file has a dot on beginning of the name
+Keyboard shortcut key presses gets emitted to Webview
+Debugging remote node process ignores breakpoints
+Allow for setting `enter` as a keyboard shortcut through the UI 
+Line wrapping breaks custom multiline problem matchers
+Save terminal commands history
+[css] Support for SVG 2 CSS Properties
+Incorrect keyboard shortcut shown in menu.
+Can `editorBracketMatch.foreground` theme colour be added please?
+Replace Preview in broken state after replacement is done
+Alt + Numpad keybindings insert characters into editor
+Electron crash: async hook stack has become corrupted
+Git should be able to automatically track new files
+Change Start Debugging Extension Host on Running Extensions to not require a restart
+Selecting multiple lines and pressing Ctrl+H should autopopulate the Find box
+Ability to ignore settings to sync from UI
+git.autofetch on AC power only
+Engineering: Improve build perf
+Symbols overlapping after ohmyzsh installed, on wsl integrated to vscode
+Unable ro read file (Error File not found) but Debug Variables populated
+Typing in Indic Phonetic deletes characters automatically
+Make "move line" command to work contextually
+Word navigation in QuickOpen
+Enable breadcrumbs for unsaved files
+Some emmet css abbreviations with ":n" value don't work as expected
+Set current search match line color
+Help test and implement the markdown custom editor preview
+Automatic Scrolling Icon Not Intuitive
+Cannot open external links.
+Distinguish types of calls for call hierarchy?
+Allow viewing and editing commands with 'args' in the keybindings editor
+Launch args adds double quotes to input variables
+Switching focus between webviews in split mode not working correctly
+Watch Add Expression should auto-fill based on selected expression property (if there is one)
+Shortcut key for opening folders does not work when executed immediately upon launch
+[css] support css-variable completion in calc 
+Merge Conflict: Compair changes(code lens) opens a different tab/panel. should replace the existing tab.
+Web: Markdown Preview scrolling not synced on iPadOS
+Debugger combobox bug for cluster/forked processes (autoAttachChildProcesses)
+Welcome -> printable keyboard cheatsheet, does nothing in OSS builds
+Settings to disable or enable parts of the UI
+Perform terminal resizes synchronously
+Destination folder for downloaded files in remote
+Expose QuickPick.matchOnLabel publicly
+Add custom QuickPick highlighting
+Web: focus tracking in markdown preview broken
+Web: desktop-reserved keybindings non functional in fullscreen Firefox
+Auto-unindent triggered too early for ruby end markers
+[folding] Auto re-fold a region after the cursor leaves it.
+Interactive playground's suggest widget styled everything as links
+OS specific properties in Tasks.json to overwrite build shell doen't work
+Regex replace w/ $ literal
+Web: Keyboard layout registration
+Web: Webview is stealing keybindings
+Web: Can't switch keyboard layout on Linux
+Debugging with 'autoAttachChildProcesses' not working
+Incorrect keyboard input when using "AltGr" key.
+Support for RHEL 8 in FIPS mode
+Wrong state of Maximize/Restore button after exiting Fullscreen and then Restoring window
+Slight UI issue with minimap when the line is long
+[css] Validation/Linting error: top-level commas in --css-variables: , should, be, ignored;
+Add accessibility label to touchbar buttons
+Replacing inline adds cases to the replace dialog history
+Support clickable links for input box descriptions
+Exclude folders from automatic task detection
+argument quoting in launch.json
+What should happen when a new file is saved with a filename pattern that should open in a webview editor?
+[css] css.lint.hexColorLength seems to be now irrelevant
+Context key button doesn't work in explorer with native title bar
+Add icons for built-in extensions
+Attach to process: cannot put process '1504' in debug mode.
+context menu appears behind quick pick
+Link to open in binary editor is not shown when image preview extension is disabled 
+PR: Add cli arguments to run the electron build as a webserver backend (headless) Replacement for #81474
+Display license link for VSIX packages in Extensions View
+Autohide minimap for frames that already show all the code
+Show keyboard shortcuts inside integrated terminal in Screencast Mode
+ctrl + click "go to definition" clashes with ctrl + click "follow link"
+[Bug] Naming of vscode Components vscode-server vscode-remote
+Investigate to support MS build of Electron when running out of sources
+[Debug] Launch In Terminal still goes to the previous terminal window after i change the default shell
+[Feature] Visual Studio Online - running in a browser add build for Plattform server
+Git: "git not found" error, macOS, when xcodebuild license needs renewing
+Clicking Markdown link in preview should not open new tab if file is already open
+Use Replace button in "Find and Replace" widthout jumping to next matching word
+[SCSS] nested properties with shorthand values break syntax highlighting 
+Autosave file after resolve merge conflicts 
+Support QuickDiffProvider without SourceControl
+Cannot debug extension (r.filter is not a function).
+Markdown: Find widget arrows look disabled
+Use the launch configuration name as the terminal name
+Comment buttons/actions too far away on a wide screen
+`add configuration` don't open launch.json when click again
+Dependent commands within launch.json
+[Feature request] Persist find/replace history
+Add chords to "show same keybindings"
+Debugger cannot resolve a "${file}" variable reference to a large file (250MB) passed as an argument
+Markdown preview editor cannot split to right
+"Open a remote window" dropdown menu truncating menu items
+Perform preLaunchTask in same terminal
+[html][css] [custom data] Custom data settings: User level setting
+Non-WSL paths should be linkified in WSL terminals
+Preserve case replace not working well with regex
+Settings UI TOC truncates category names, could make better use of horizontal space
+Context menu key in explorer doesn't show context menu
+autoAttachChildProcesses attaching to external threads
+Native title bar context menu for Gear button always triggered when you click the right half of the icon
+Context menu for document link items
+[css] code completion for gradient functions
+unlimited keyboard shortcut lengths
+Debug console replaces newlines with spaces
+Caching/prefetching remote webview vscode-resources
+[css] Add support for CSS @supports selector() function
+Experiment with upcoming default electron process model app.allowRendererProcessReuse
+Keybindings with commands that don't exist should be faded instead of showing warnings
+Clicking Merge ACcept Change to quickly can remove extra lines
+Ability to contribute context menu entries for Terminal
+[css] SCSS/SASS Auto Intellisense doesn't work after last entry
+[html] autoclose not working properly with multicursor
+Keybindings: provide some guidance on when-clause support
+compressed autocompletion box
+Better filter expressions for hiding derived resources
+Link preview text on hover are inconsistent
+Add `Clear search fields` button to Search widget
+Right click should offer remote variants of "Open with Code"
+Support prompt for QuickPick as well as InputBox
+Add predefined variable ${fileDirBasename}
+Add a "Toggle Word Wrap" button to the Output window
+String Settings UI: Multiple edits loses data on Save
+Preserve case behaves unexpectedly, taking caps from both source and replace
+Reuse launchBrowser window tab
+Add an output panel for keybindings
+Add a shortcut or a button to restart extension host.
+Few new commands for find/replace
+[html] auto close tags being inserted before its html content
+Comment bar doesn't go away after leaving PR mode manually
+support game controller so I can map buttons on it
+[css][html] Publish language servers modules on npm
+[Settings GUI] String array: No help in filling enum values
+Add title property to QuickPickOptions (showQuickPick)
+Auto Indent Support not working for select in Go
+Option for using system Color Picker instead of inbuilt
+Variable references in shortcuts don't work with remote container
+Disallow nesting in config variable resolver
+Automate electron upgrades
+[css] Shorthand properties: show label for each value in hover
+Find and replace panel will end up in an inconsistent state
+Selection is changed when using Find and Replace panel
+PHP auto-closing HTML tags
+More than 100000 values in an array on debugging mode
+Link underlines blink
+terminal.integrated.inheritEnv breaks integrated terminal
+Taskbar Menu Item for Opening VSCode in Remote
+[json] format on save should remove last trailing comma in JSON with json-language-features
+Integrated terminal with zsh on macOs Catalina starts with incorrect CWD
+Search doesn't follow symlinks in a Samba share on Linux
+Simple file picker: Investigate filtering the file/folder list
+Chrome debugger: Use port forwarding to open URL when running with a remote
+Use extension UUIDs for recommendations
+Git checkout panel: divider line after local, option to sort branches by remotes
+Unable to distinguish between instances on mission control
+When terminal.integrated.inheritEnv is false on macOS, the env should be fetched via a native node module
+Quick open shows no focus affordance in High Contrast
+[scss] linter update for variables in #{}
+Allow QuickPicks to show right-aligned text like "recently opened" in the command palette
+Improve UX for organize imports on save failures / cancellations 
+Builtin support for reading files from their zip archives
+autoAttachChildProcesses for attach type debug
+New Window shortcut opens 2(two) new windows when Webview is on active editor window
+Distinct appearance for (primary) cursor while in multiple mode
+Global regex search with "Not matching character" doesn't match newline
+Setting Quickpick.items with canSelectMany doesn't clear the selectedItems
+Save width of Explorer column (sidebar) in Workspace
+Quickpick loses active item if items are updated
+Support aligned icons (octicons) in quickpicks
+Extend Extension API with QuickPickSeparator Support
+Allow to define the lifespan of an input variable value
+[json] Allow full glob filtering for fileMatch in json.schemas
+Support object types for `TreeItem.contextValue`
+Render extension icons in Settings GUI
+[css] Color picker for rgba() function in CSS
+Add support to distinguish between diagnostics created by a reconciler and a builder
+Emmet built-in plugin cheats start with @ not added in
+Blank editor opened when quickly clicking "Compare changes"
+Automatic Space in the end of line when saving a code
+Add "type" to textDocument/references results (icon, filtering)
+[css] Wrong selector specificity values with :nth-child(even) and :nth-child(odd)
+Expose command/context to allow using tab to autocomplete simple dialog
+Expose vscode remote reconnecting UI.
+Apply update fails on Remote Desktop with multi-user running VSCode
+Add option to skip sorting QuickPick items
+Interactive Playground Shortcuts inaccurate on restart
+Upper-case aware completion when opening folder with remote ssh
+In-product keyboard shortcuts tutorial
+Unable to debug a remote authority resolver extension
+Issue Reporter - link to wiki page about writing good reports
+autoAttachChildProcesses doesn't work when restarting
+Reload CSS when running out of sources
+Terminal:`Run active file` doesn't work in remote
+Upgrading a theme currently requires a window reload
+Background tasks with activeOnStart:false shouldn't show problems if beginsPattern isn't matched
+For long hovers, errors appear all the way at the bottom and require scrolling
+Add a button to open Find All References from Peek References
+Provide a way for extensions to open the keybindngs editor with a query
+Gnome fractional scaling not supported - blurry UI
+Option for unified Search / Replace Bar
+[scss] Incorrect selector specificity in hover tooltip
+Emmet: Support css.color.short setting
+Support restart of remote EH to avoid window reloads
+Trying to paste primary selection on replacement box instead pastes in editor
+auto closing pairs with conflicting patterns problems
+Tree: filter is not discoverable
+TypeScript intellisense auto import feature adds the import to a duplicate file (different casing)
+Allow languages to specify autoClosingQuotes/autoClosingBrackets per quote or bracket pair
+Ability to disable or configure Git change peek button next to line number
+Compound launch configs with integrated terminals and nodemon no longer start reliably after 1.33.0
+[css] highlighting not working for some transition properties
+Mac shortcut not working on Release Note Screen
+Terminal jumps using US International Keyboard and custom lineHeight
+[Feature] Add support to filter scripts from the script explorer using regular expressions
+Automatically show changes side-by-side if there's only one group, otherwise show changes inline
+Need keyboard shortcuts for buttons in custom dialog
+http.systemCertificates requires window reload
+File Provider: support symbolic link operations
+[html] bracket matching in strings
+Add queuing to dialog service
+Tree does not highlight item under context menu if tree does not have focus
+Quick input gets wrong focus outline
+[Feature Request] - Save extension and themes as a Favorite
+Custom Variables Support In Workspace Settings
+"Normal" filtering input for trees
+Settings UI is overwhelming for extensions with lots of settings
+Error squiggly in wrong location
+tasks.json "dependsOn" property does not resolve variables/commands
+Allow to disable cursor blinking in input boxes
+Pull and Sync  fails when name of tracking branch differs from name of tracked branch on remote
+"Auto-Attach" DebugSession name change after launch
+Maximize editor group auto sizing stops working after closing the sidebar
+Keybindings: Add when context for if an extension is enabled
+[html][css] [custom data] Extension contributes settings don't take effect until vscode restarted now
+When vscode-insiders needs to restart due to a changed config, but has an update pending, on next launch it will close about 5 seconds in
+Add context to find if list item is collapsible
+Scrolling hover popup with keyboard
+Cannot bind hardware keyboard buttons  "back" and "forward"
+Support cell-by-cell navigation to allow links to be keyboard accessible and more fine grained keyboard selection
+Show an obvious indicator that an updated extension requires a reload
+Debugging with no launch config fails when tsc task detection is disabled
+[json] add colon automatically
+[json] add commas automatically
+Tree: Support for automatically expanding parent nodes of filter matches
+With ctrl+p, tab to auto-complete query
+Workspace-level environment variable *definitions*
+Avoid IConfigurationService.acquireInstantiationService()
+Allow keybindings commands to override "top menu bar" shortcuts
+Tree: option to show all descendants of a filtered match
+Support running multiple tests suites at the same time
+MarkdownString.appendText doesn't handle visually significant whitespace
+Some Ctrl+Alt shortcuts no longer work
+"Recently Updated" Pre-defined Extensions search filter
+Mac shortcut Cmd + Shift + Slash broken after 1.31.1
+Trusted Publisher Verification & Verified Publisher Filtering for Extensions
+The second installed extension doesn't auto display in 'Installed Extension' view till reloading VS Code
+Go to matching brace choosing wrong brace when selection is active.
+[html][css] [custom data] Give custom HTML tags/attributes and CSS properties higher completion rank
+Allow multiple filters in extensions search input
+Different color for major semver update button
+Ability to update built in extensions
+More flexible input variables: Multiple values & labels
+Keyboard shortcut search results for "focus terminal" have odd ordering
+Support comments in UI editors (settings and keyboard shortcuts)
+Enlarge scroll bar button when mouse near by
+File is not highlighted in type to filter after renaming
+Specify terminal group for integrated terminal in launch configuration
+New explorer: allow to filter by path
+Terminal shortcut in View menu is displayed differently than rest
+Counter-intuitive sorting for completion items
+Show number of matching occurrences
+Markdown base64 not displayed entirely in the documentation panel
+[html][css] [custom data] Reload custom data on user setting change or JSON file changes 
+Cannot drag explorer list filter widget back to right side
+Auto-indent on closing brace
+Icon Theme Setting UI does not update when using `Preferences: Icon Theme` command
+Right in the explorer should focus the first filter match if there is one
+Explorer filter box style issues
+Filter highlights overlap with search highlights
+Support filter on type should in search tree
+Settings search doesn't find a match
+Tree twisties should not be rendered when all children are filtered out
+[json] jsonValidation fileMatch is confusing when used with URIs
+Unifying "do X on save" functionality
+postDebugTask running if debug mode briefly turns off then on
+Clear all problems in the 'Problems' pane with a button
+Explorer: resolve all folders before filtering
+Add "accept theirs", "accept ours" git commands/context menu actions
+List highlight filter: Support other filters
+List highlight filter: Toggle to highlight/step only on in same folder
+Input variables only work with one configuration in a compound launch config
+VS Code holds onto parent console when launched via command line
+[css] support IE10 repeat syntax
+Support numeric input variables
+Emmet: hide `link:m` suggestion
+Keyboard navigation in settings editor is broken
+Context menu 'Find all references'  on files from file explorer.
+autoclosing markdown preview when closing md file
+[json] Auto detect JSON schema when located next to the file
+[css][html] SVG language support
+Cannot resize Keyboard Shortcuts column sizes -> Add column resize handle bars and horizontal scroll bar
+Auto-run task on folder close in addition to open
+Emmet dollar sign $ being automatically escaped within abbreviation text when no star * operator
+Panes splitting, auto closing
+Cannot enable brackets matching for .log files even when "editor.matchBrackets": true is set for that language
+Problem with syntax lighting SCSS
+Temporarily Set Configuration For Save Operation
+Code scrolls when typing with markdown preview open
+Emmet CSS # character
+Prevent Find/Replace bar from returning after Next Match (F3)
+configurable automatic indentation
+"Single Panel Mode" for sections in side bar (similar to lightroom, gif included)
+Support minimal context menu for text selected within extension README
+Some button can not be executed by touching
+preview markdown file, image can not reload when modified with other tool
+[pug] add auto indent
+Support using configured keybinding to close issue reporter
+Add "Never pause here" option to breakpoint context menu
+Way to Re-enter Context of the Placeholder Tab Progression While Using Snippets
+Consider improving the allow/disallow automatic task actions
+Setting to disable autocompletion fuzzy matching altogether
+consider to allow for variable substitution in the inputs section
+Loaded scripts: session and folder should be a bit more distinguishable
+Search: find, replace input boxes miss scrollbar
+Replace doesn't insert captures when finding multible lines
+Double click the left mouse button to select the nearest code block
+Do not trigger auto updates when a specific version of extension is installed from CLI
+markdown files preview does not save scroll position
+Portable mode: Presence of data folder prevents --user-data-dir command-line override
+[snippets] Support for global or project-level variables
+Indent/Outdent with tab key does not honor editor.autoIndent=false
+unins000.dat is becoming bigger and bigger everytime after auto update
+After fresh update, "Open Recent..." quits Code
+[scss] selector specificity works wrong with nested selectors
+Ability to apply a final sort to QuickPick results
+Regex replace in a large file clears an "innocent" line following a block of affected lines
+[scss] rename not working for placeholder selectors
+Unable to set a shortcut to stage or revert git change after Show Next Change (when dirtyDiffVisible)
+Support negative filters on text
+Keyboard Shortcuts Ide Tab and Browser Pdf Shift+Alt+... entries
+Reinstall Language Pack shows neither Restart button nor Info Message
+[css] Add @media and @supports to CSS breadcrumbs
+Tree API: When using async `getChildren` of TreeDataProvider, no progress on revealing
+HTML Auto-indent Does Not Work If Original File Type is PHP
+Integrated Terminal : Start named session
+Save and import the list of enabled extensions.
+Need a shortcut key binging of outline to toggle expanding or folding
+Multi-target debug fails to start in integratedTerminal if there is any Node Debug Consoles left open
+When editing css / scss, an option to not inserting blank line within braces.
+Task Manager: provide the ability to reuse custom problem matchers
+Source code manager doesn't update its contents when a file saves
+Problem matchers should restore problems on close
+[css] Autocomplete for media queries
+Backticks not auto-closing for tagged template literals
+Hide lines with filters instead of just removing from active file or showing in new window
+Open next build error file+line based on regex parsing of build output.
+Please provide a "Delete Record" button when the path of recent project does not exist.
+Improve ui/ux when debugging with multiple configurations
+Application contextual menu is no more displayed after a SHIFT+ right click in Windows Taskbar
+nextMatchFindAction inherits addSelectionToNextFindMatch match word setting
+Git: Prevent running git operations during sync
+Multiroot: Automatic Generation of launch.json for node has wrong paths
+Cleanup list/tree mouse & keyboard navigation
+Emmet Typing semicolon should lead to skipping expanded semicolon character for CSS abbreviations
+Provide context to format provider so it knows whether a format came from a save request/manual invocation
+Shortcut background broken with centered editor layout
+icons for QuickPickItem
+[scss] No autocomplete for built-in functions inside maps
+Button in Find/Replace to swap the content of the text boxes
+Commands executed via menu/contextmenu do not report error as notification
+Auto save in new settings results in multiple validation errors when typing text
+Extend tasks API to allow programmatic problem matching
+SCM: Support to automatically change active provider based on current open file
+launch command limited to 1024 characters
+Settings UI - Not Showing Language Specific fields
+SelectBox: Update ctor, organize for new options eg Settings requirements
+Open settings editor from link with URI handler
+[html] Automatically delete HTML closing tag when converting to self-closing tag
+Problems View: Indicate which errors come from tasks / problem matchers
+new settings UI: possible to undo a setting change?
+Disappearing setting in @modified filter
+Support filtering tasks activities by file type (language)
+[html] Support SCSS in HTML with <style type="text/scss">
+Show other matching extensions button looks mis-aligned
+Settings UI lacks concept of inherited default value
+Feature Request: Hotkey Support for QuickInputButton
+Allow <super> as a keybinding option in linux
+Plain text in markdown indents incorrectly
+[themes] Allow custom variables in workbench color customizations section
+Auto indentation is not smart enough
+when no problemMatcher is specified, just run all the matchers and pick the first one that matches
+Settings editor doesn't return matches for edited setting values
+add a context menu to entities listed in breadcrumbs
+Support auto update for Windows and Linux ZIP
+skipFiles Option in Auto Attach Debugger
+egrep like feature to subset display of lines based on regex  (i.e. hide code lines that don't match)
+Make pasted data match indentation of destination
+Keybindings - right click disables multiple selection of items
+Problem matchers should support creating related diagnostic information
+"Quick Open" open all files
+[scss] Breadcrumbs in scss file not working for multi-line selectors
+[css] use folding regions in outline 
+Option to automatically open markdown in preview 
+VS Code in portable mode cannot load loc UI first time after the move
+Emmet: error wrapping link
+[scss] Add "Go to or peek defintion" for imported mixins and variables for SCSS files
+[folding] Add keyboard shortcut to jump between #region and #endregion
+Keyboard Shortcuts Reference that incorporates User Key Bindings
+Remove CtrlCmd+W keybinding to close window when no editors are opened
+Contributed webview context menu actions
+Change `Match Whole Word` button to only contain lowercase letters
+Allow diagnostics messages to have markdown (or formatted text) content
+Debug Provider to return launch configurations 'in-memory' to the debugger
+Localized descriptions for built-in extensions and their settings dont show up in Extensions view
+Outline view + Markdown: Do not display the "#"s
+Counter-intuitive "editor.suggestSelection" behavior when completion is "kept open"
+Support links execute vscode commands in output panels
+suggestion score - allow first character to be a weak match
+Improvements to Node Auto Attach to improve defaults and discoverability
+Shared properties in launch.json 
+Subword navigation : Apply introduced feature to whole UI
+Linked snippets
+Show 'Source' actions in file explorer context menu
+[HTML] Auto tag-closing doesn't work with undo/redo and programmatic changes
+Cannot read property 'value' of undefined" when closing multiple terminals started by launch.json + F5
+Allow disabling builtin extensions from the command line and persisting the configuration state so that subsequently when vscode is closed and open ithose extensions will still be disabled
+Shortcut for opening color picker and insert color of selected format
+Cannot change spacing level in auto-detect mode
+Organize Keyshortcuts by Topic
+Instructor Mode
+Feature: Use package.json to save state of extensions 
+Add user-option to refuse extensions' keybindings contributions
+addSelectionToNextFindMatch  & doubleclick sense of selection is inconsistent wrt themselves & other commands
+Tweak autoClosingPairs to make PHP docblock insertion less intrusive
+Filter "Problems" by the extension which generated them (Markers Panel Filter)
+Find/replace: Keyboard shortcuts for "toggleFindCaseSensitive" and "toggleFindRegex" don't work when find has focus
+QuickPick API is no longer type safe
+Consider show a filename input box (Quick Open box or rename-like input box) for "Move to new file"
+Duplicate keyboard cursor when using fcitx input method
+Support a variable that resolves to the location of the code-workspace file
+Intellisense tooltip with filter category like Visual Studio
+Allow both "onFocusChange" and "afterDelay" for "files.autoSave"
+How to hide the Restart button in the debug toolbar when attached to a process that can't be restarted?
+Add theme key for the "alternating" row color in keybindings editor/settings UI and change default
+Indent guide highlighting is not semantic
+Need Env Variables for DataDir and ExtensionDir
+[Feature Request] Support ability to switch between multiple keybindings.json files
+Does the watch view support auto completions?
+Feature Request: Smarter indent guides
+FileSystemProvider: have a reference test suite
+Source action context menu feels weird
+Process explorer context menu not displaying properly
+end keyword matching for Ruby, Lua, Julia, Elixir, Crystal and others
+Traces of deleted links showing in editor when deleting
+[Feature Request] Keybinding with a sequence of keys
+Search and replace across files corrupts files with CR line endings
+Environment variables defined in `tasks.json::tasks.options.env` do not overwrite existing environment variables
+Feature: Settable "keyboard.chords.mode"
+Horizontal scrollbars are too tiny in diff mode
+Typewriter Scroll Mode
+Command - Undo Replace All
+Need a way to get logs from the DA when there is no explicit launch config
+Bell does not work in integrated terminal
+Make input fields keyboard shortcuts (e.g. copy/cut/paste) configurable
+Save automatically when refactoring
+Improve `Run [Build] Tasks` command and dialog
+keybindings using [ContextMenu] key sometimes ALSO trigger UI context menu
+[html][css] Investigate cross css/html, multi file support
+Launch task directly into split terminal
+[json] completion has bad replacement span, overwrites comment
+Make search tree context menu multiselect-aware
+Add support for media keys (keybinding shows "unknown" for key "back" and "forward")
+Indent guides mismatch if statements without braces
+Don't autosave when replacing in single file
+Allow extensions to contribute defaults for built in configurations
+Output Scroll Lock shouldn't be reset on quit
+Issue reporter - disable extensions should be a button and not a link
+Tokenizer is slow when pasting text and autoindentation is on
+Expose electrons app.getPath() to extension API (or equivalent)
+Expose API for variable substitution in contributed configuration
+Different absolute path resolution for imgs in markdown preview
+setContext command not documented along with commands with arguments
+Auto indent after comments ignores indent of previous comment line.
+Allow hiding the buttons in the tab bar line and in the panel title bar
+Auto indent in JS, follow up
+Installer doesn't disable launch of VScode  even when installing with /mergetasks=!runcode
+Use xattr (extended attributes) on macOS to save/load text encoding identifier with file 
+Zen Mode Settings
+Toggle Line Comment shortcut working undesirably
+Double-click selection matches some escaped characters
+Linux: watcher requires file handles per file in the workspace folder
+Add `add keybinding` from keybinding-editor
+Automatically close diff editor when switching from Source Control to Explorer mode
+Feature Request - Match case popup window must be more visible
+thumbnail should match editor.minimap.enabled
+Support environment variables for paths in .code-workspace files
+Extension debug: --user-data-dir must be used for debug launch
+Centered mode should hide the title area
+Opening launch configs in user or workspace settings should reveal the "launch" section
+Pin/Autohide option in panes
+Add variable to tasks.json for cursor column number
+[json] schema fileMatch for all *.json files in root folder
+When vscode window is restored after OSX restart PATH variable does not seem to be loaded
+Close All should not stop when unsaved files encountered
+Git diff/patch-view UX: Better UI for seeing all patches, staging and discarding selected hunks/lines
+Allow an option to only show hovers if a shortcut key is down
+Allow middle mouse button to be bound in keyboard shortcuts
+"Download Now" button should respect the used installation method on Linux
+Use Windows Keybindings in MacOS
+Allow extensions to contribute additional paths to "quick open"
+Markdown syntax highlighting for ~~text with strikethrough~~ and task-items
+[css] propose ids used in other selectors
+Opening .bat file in VSCode via context menu in windows explorer tries to execute it
+Allow customization of search match text color
+[json] launch.json completion for "type" does not include expected values
+[css] Lab colors and other CSS Color Module Level 4 features
+Graying out the "launches" section in Workspace configuration is confusing
+Context menu contribution does not warn when activation event is missing
+[Feature Request] Allow to define and select Debug and Release build configurations
+pass selected tree item context to view/title commands
+[json] Automatically add required fields to object
+When find/replace could take long, show progress bar
+Support workspace-level terminal.integrated.cwd in multi-root workspaces
+No keyboard friendly way to open multiple files in the current editor group
+Process inherits vscode environment when launched by debugger
+Allow to set files.autoSave as language specific or folder setting
+Support reading/writing chunks in remote fs
+Allow me to disable project-wide auto-save when running a build task
+editor.autoIndent incorrectly indents comments
+Provide update notifications for portable mode
+If try open file in FAR Manager via Emenu (windows explorer file context menu: Open with Code) I get error message to in console
+[html] code completion replaces text after cursor
+[html] extract class name to css file
+Project minification on save (support on save execution)
+NodeJS debugger doesn't properly handle launched apps that restart on file change.
+HTML inside hover/signature help markdown is not rendered
+Editing large files - not work to replace all
+Can't distinguish from SCM repositories with the same name
+Tasks with target = TaskScope.Global as the scope do not show up in task picker UI
+Keybindings aren't respecting `when clause` when showing shortcut keys in menus
+Separate editorGutter.modifiedBackground for saved/unsaved changes
+Feature Request: Keybinding Overloading
+no way to scroll a large definition popup when holding command button
+Symbol navigation and context
+settings.json --> no highlighting of matched words in the scrollbar area
+Support hyperlink ansi escapes in the integrated terminal
+Add Mouse Clicks to Configurable 'Keyboard' Shortcuts
+CLI: code --install-extension should show reload button if vscode is open
+Text is truncated when launching external terminal on OSX in debugger
+Windows - "Open in Code" option for file or folder in contextual menu does not work when Code is open
+Can we get a ${dirSep} variable for use in tasks.json and launch.json?
+Autoclosing pairs should be configurable
+SCM: Support keyboard shortcuts for inline change review commands
+b¨¦po keyboard layout: cut / copy / paste  shortcuts
+Odd rendering of whitespace for grayed out launch.json properties
+Option to auto-update extensions based on semver
+Improve keybindings.json UI to show extension changing the shortcuts in `Source` column
+Search and Replace opens every file affected without changes saved
+Small but infuriating undesired auto-indentation in C++ source files
+Provide squiggles in .code-workspace file if the path is invalid
+Add control to open file shown in "replace preview" editor when performing project-wide find/replace
+Improve Configure Default Build task in multi root setup
+Extension host shouldn't exit after 5 seconds in shutdown when in debug mode
+Support emoji IMEs in the integrated terminal
+FindWidget navigate shortcuts not working in WebViews
+[RFE] Shortcut for selecting all lines with multi-cursor
+Delete matching parentheses, brackets, or braces
+Support symbolic link folders in areas like debug, extensions
+Implement privacy mode
+Extract the integrated terminal
+Enable fuzzy matching for picker
+Clean up link detection
+Let user to set the mouse keys as keybindings (feature request)
+introduce "pathMapping" as a more powerful replacement for "remoteRoot/localRoot"
+[folding] Automatic function/method folding
+Synchronized Scrolling in Split Editor
+Drag markdown preview to New Window
+Debug console: be able to disable automatic scrolling to end
+Add Opacity & Variable Height to Minimap
+Save Proxy Credentials
+[json] no quick suggestions when in a string literal
+Cleanup ExtensionContext.workspaceState when a workspace no longer exists
+Typing experience is really bad when markdown preview is opened and word wrap is off
+Add more progress UI locations, e.g editor and sidebar
+Color Picker: Keyboard accessibility
+2 UIs to open loaded scripts: view extension and command to show loaded scripts
+Change all occurrences in a single 100MB line leads to a crash when autosave on
+Open loaded scripts from quick open and viewlet show different content
+Allow to auto resize a custom view or take initial size as input from custom view contributions.
+Incorrectly flag property "cwd" as not allowed for node attach in launch.json.
+Autoindent adjusts end-brace to wrong indentation level (JavaScript)
+cant find \r in regex mode
+Keyboard shortcut chords with bare shift
+Cannot disable extensions when launching with --disable-extensions
+Auto indent doesn't indent properly with tab/space
+Autoindent inserts extra undo item, requires double undo after paste
+Tasks - show the number of detected/matched  problems in the terminal output
+Problem matcher errors are unhelpful
+Move lines doesn't handle context around the selected range.
+Auto indent in ruby doesn't play nicely with def
+auto indenting issues with C# files
+Auto indent on pasting does not satisfy indentation for braces in JS/TS
+Selection of problem matcher is not very intuitive when running a task
+Disable auto workspace settings
+[themes] Add `editor.findMatchForeground`
+[css] Use CSS custom properties imported via @import
+Option to autohide minimap when in split editor view
+Activate extension with workspaceContains when a matching file is added to the workspace
+Find/Replace Usability: Tabbing between fields should select all text
+Add a way to bind a keybinding for a command from the F1 list
+Consider allowing to provide context menu commands in code
+Task Quick Open Sort Order
+Improve ranking of elements in quick open
+Match whole word doesn't work in search for non-latin characters
+Status bar: allow extensions to contribute context menu entries on items
+Variable substition: ${packagePath}
+PreLaunchTask: support passing parameters from configuration to preLaunchTask
+[macOS] Make keyboard shortcuts input source-agnostic
+Feature Request: allow extension filter exclusions
+VS Code keyboard shortcuts suggestion to learn
+Show quick pick always in context where it was opened
+Git: Support file stat mode changes
+Feature request: Drag files for  automatic relative paths
+SCM: Add "stage ranges" action/button to diff view
+Copy/replace/add left <-> right in compare views
+Problem saving keybindings
+keyboard shortcuts to choose an intellisense suggestion?
+SCM: Support keyboard shortcuts
+Issues auto guessing file with GBK encoding
+KDE: Reading keyboard layout reads the wrong one
+Neo keyboard layout: Some Keys stopped working
+Keyboard mappings with `setxkbmap` on Linux not working
+Bind all keybindings with numbers also to the numpad keys out of the box
+Allow project specific keybindings
+Keyboard layout changes are not detected on Linux
+showInputBox should have the ability to have an array of quickpick options as well
+Feature: option to configure renderIndentGuides
+Typescript symbols aren't displayed when using `"search.quickOpen.includeSymbols": true`
+Allow to configure editor auto reload behaviour
+Node remote debugging: source map work but it doesn't seemed to locate original src
+Linkify terminal paths without any path separators
+Allow sorting keybindings by column in new keybindings editor?
+Keyboard combination Alt + arrows in the editor
+Trigger save even if file is not dirty through API
+Outline matching selections instead of highlight
+Feature Request: Autosave on build
+Extensions viewlet: Ability to run individual extension management actions using a keyboard shortcut
+Allow to create multi-cursor with keyboard
+Add a "select all" button to the find UI
+Undo (Ctrl+Z) when doing search-replace from the search window GUI does not work
+Restrict quick open file to project files
+Customizing the rendering of matching brackets
+Feature request: Search/replace preview should show differences
+Options for automatic indentation
+The replace string should support additional escape char sequences
+Setting to skip keyboard shortcut contributions of extensions
+Allow to cycle through previous typed values in quick input picker
+[html] Auto insert Quote when i type equal sign (=)
+Compound keyboard shortcuts should be delimited by commas
+StorageService: Avoid sync fs-calls
+Opening windows: Avoid sync fs-calls
+Avoid sync fs-calls in backupMainService
+Multi-cursor mode: Multi-Cursors gone after paste
+Themeing for editor squiggles background
+Highlight matching quotes, double quotes and backticks
+Keyboard shortcut missing for some file operations
+Simple way to temporarily turn off exclusions for QuickOpen files
+Support per-window variable environments
+Configure Explorer to show and distinguish generated/derived/related files
+Ability to publish prerelease build streams of extensions and opt-in
+Triggering actions.find causes active match to lose its highlight.
+feature request: support disjunction/or in when-clauses for keybindings
+Add an option to confirm before quitting
+Add support for contextmenu key
+Using capslock in a keybinding still toggles capslock
+Consider surfacing mapped variable names
+Request: option for find/nextMatchFindAction to search forward only, previousMatchFindAction to search backward only
+Trigger language auto detection mechanism
+Provide guidance to language and extension authors
+Replace with newline works only when regex mode is on
+Unexpected suggestion in debug console for variable named _
+Align more keybindings with Mac conventions
+Auto hide panel
+Improve editor.trimAutoWhitespace or cursor navigation
+Glob matching should be case insensitive
+Can't match multiline occurrences
+Add support for "fn+" function key commands in custom keybindings
+Tabs for integrated terminal
+Lift `setContext` from a command to proper API
+Suggestion: Automatically show the Problems panel if problems exist (and hide similarly)
+Indent Guides Have Breaks Where CodeLens UI is Rendered
+API hooks for existing find/replace UI
+Allow to save a list of opened editors in a group and switch between them
+Add suggestions for key binding when clause contexts
+Show quick open results as preview while navigating through them
+Investigate removing Max results limitation for Search and replace results
+Replace all as global editor action in replace diff view
+problemMatcher vs zero-based column values
+[css] Support <angle> units icon in CSS
+keybindgs.json "key" does not tolerate spaces
+take advantage of tsserver model of code for faster TypeScript builds
+Auto closing brackets should try to balance brackets
+[css] show all variable definitions for Go To definition
+[css/less/scss] var should be a suggestion in intellisense
+Add dropdownlist when too much statusbar buttons
+Middle mouse button scrolling
+isWatching task as preLaunchTask in launch.json
+Git: Symlink support
+setup on osx: automatically move to applications folder
+Add read-only mode
+Allow setting a command event instead of an shortcut key in keybindings
+Add setting to automatically hide the side bar
+Extensions should be able to contribute file templates via a new UI feature - New File Template ... 
+Add support for "e.key" keybindings in extension's `contributes.keybindings`
+Function breakpoints - protocol allows condition but no UI to set condition
+Allow customization of mouse shortcuts
+regex sub match math
+Support variables when resolving values in settings
+Automatically Activate Markdown Preview
+Git: Automatically insert line breaks in git commit messages
+postLaunchTask would be very useful
+Dark+theme: cannot distinguish current selection from write access occurrence
+Proposal: Ability not to auto-close comments
+Add some API to support GUI customization
+Proposal: Add mnemonics to context menu items
+problem matcher that clears only for changed files
+Support contributing different keybindings based on keyboard layout
