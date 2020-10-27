@@ -53,7 +53,7 @@ if __name__ == '__main__':
         url = 'https://stackoverflow.com/search?page=' + str(i) + '&tab=Relevance&q=vscode%20extend'
         write2file('VSCodeQuestions.txt', get_StackOverFlow_QA(url))'''
     #爬取Stack Overflow上关于ide的问题
-    for i in range(920, 4347):
+    for i in range(1, 4347):
         url = 'https://stackoverflow.com/search?page=' + str(i) + '&tab=Relevance&pagesize=50&q=ide'
         write2file('IDEQuestions.txt', get_StackOverFlow_QA(url))
 
